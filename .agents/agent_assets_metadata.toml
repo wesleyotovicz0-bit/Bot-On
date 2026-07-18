@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "R3jV--GLrwCMx5Z_e9Ogb"
+uri = "file://wsStore_bot.zip"
+type = "unspecified"
+title = "ws Store Bot — pronto para hospedar"

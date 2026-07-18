@@ -368,30 +368,250 @@
     "_id": "loja_customers"
   },
   "loja_data": {
-    "carts": {
-      "1528174255378792640": {
-        "cart_id": "1528174255378792640",
-        "thread_id": 1528174255378792640,
-        "cart_message_id": 1528174256960307363,
-        "channel_id": 1409705329754898463,
-        "guild_id": 1409705328865705996,
-        "user_id": 1375136234694901831,
-        "items": [
-          {
-            "product_id": "6zMY4XjwBn",
-            "campo_id": "am8zI1aeIv",
-            "quantity": 1,
-            "price_per_unit": 1.0,
-            "item_total": 1.0
-          }
-        ],
-        "total_price": 1.0,
-        "discount_amount": 0,
-        "coupon_code": null,
-        "coupon_type": null,
-        "payment_method": "pix",
-        "payment_data": {
-          "local": {
-            "copy_code": "00020101021226540014br.gov.bcb.pix0111148644399070217Teste - Teste1 x152040000530398654041.005802BR5904Loja6009Sao Paulo62250521E8C53CB647DF4079B0430630481FA",
-            "qr_url": null,
-            "qr_bytes": 
+    "carts": {},
+    "_id": "loja_data"
+  },
+  "loja_maintenance": {
+    "enabled": false,
+    "message": "Olá, {user} a loja está em manutenção, tente novamente mais tarde.",
+    "allow_admins": true,
+    "_id": "loja_maintenance"
+  },
+  "loja_preferences": {
+    "cart_duration_minutes": 30,
+    "transcript_enabled": false,
+    "transcript_channel_id": null,
+    "office_hours": {
+      "enabled": false,
+      "start_time": "",
+      "end_time": "",
+      "off_days": [],
+      "message": ""
+    },
+    "stock_requests": {
+      "enabled": false,
+      "channel_id": null,
+      "role_id": null
+    },
+    "terms": {
+      "enabled": false,
+      "text": ""
+    },
+    "_id": "loja_preferences"
+  },
+  "loja_stock_requests": {
+    "requests": {},
+    "_id": "loja_stock_requests"
+  },
+  "loja_doubt_button": {
+    "enabled": false,
+    "button_label": "Dúvidas",
+    "button_emoji": "❓",
+    "channel_id": null,
+    "message": "Olá! Se você tem dúvidas sobre nossos produtos, entre em contato conosco!",
+    "_id": "loja_doubt_button"
+  },
+  "loja_mass_coupons": {
+    "coupons": {},
+    "_id": "loja_mass_coupons"
+  },
+  "loja_roles_temp": {
+    "_id": "loja_roles_temp"
+  },
+  "loja_products": {
+    "_id": "loja_products"
+  },
+  "products": {
+    "_id": "products"
+  },
+  "products_preferences": {
+    "show_description": true,
+    "show_sales_count": false,
+    "button_text": "Comprar",
+    "button_emoji": "🛒",
+    "_id": "products_preferences"
+  },
+  "loja_qr_customization": {
+    "enabled": true,
+    "color": "#000000",
+    "background_color": "#FFFFFF",
+    "logo_url": null,
+    "logo_size": 0.3,
+    "corner_style": "square",
+    "dot_style": "square",
+    "_id": "loja_qr_customization"
+  },
+  "loja_personalization": {
+    "purchase_event": {
+      "message": null,
+      "color": null,
+      "image": null,
+      "show_user": true,
+      "show_quantity": true,
+      "show_price": true
+    },
+    "feedback_incentive": {
+      "message": null,
+      "button_text": "Deixar Avaliação"
+    },
+    "_id": "loja_personalization"
+  },
+  "payment_configs": {
+    "mercado_pago": {
+      "enabled": false,
+      "access_token": null
+    },
+    "efibank": {
+      "enabled": false,
+      "client_id": null,
+      "client_secret": null,
+      "pix_key": null,
+      "cert_file": null
+    },
+    "pushinpay": {
+      "enabled": false,
+      "token_pushinpay": null
+    },
+    "misticpay": {
+      "enabled": false,
+      "client_id": null,
+      "client_secret": null
+    },
+    "pix_manual": {
+      "enabled": false,
+      "pix_key": null,
+      "pix_key_type": null
+    },
+    "sync_wallet": {
+      "enabled": false,
+      "api_key": null
+    },
+    "_id": "payment_configs"
+  },
+  "payment_tracking": {
+    "items": {},
+    "_id": "payment_tracking"
+  },
+  "nubank_pending_payments": {
+    "_id": "nubank_pending_payments"
+  },
+  "cloud_data": {
+    "client_id": null,
+    "client_secret": null,
+    "bot_token": null,
+    "log_channel_id": null,
+    "definitions": {
+      "remove_autorole": {
+        "enabled": false
+      },
+      "sync_oauth2": {
+        "enabled": false
+      },
+      "require_oauth2": {
+        "enabled": false
+      },
+      "persistent_oauth2": {
+        "enabled": false
+      },
+      "auto_join_oauth2": {
+        "enabled": false
+      },
+      "block_vpn": {
+        "enabled": false
+      },
+      "block_mobile": {
+        "enabled": false
+      },
+      "block_no_verified_email": {
+        "enabled": false
+      },
+      "block_no_email": {
+        "enabled": false
+      },
+      "block_spam": {
+        "enabled": false
+      }
+    },
+    "message_verify": {
+      "message_style": "embed",
+      "button": {
+        "label": "Verificar",
+        "emoji": null,
+        "style": "green"
+      },
+      "embed": {
+        "title": "Verificação",
+        "description": null,
+        "color": null,
+        "image_url": null,
+        "thumbnail_url": null
+      },
+      "content": {
+        "content": null,
+        "image_url": null
+      },
+      "container": {
+        "content": null,
+        "image_url": null,
+        "thumbnail_url": null,
+        "color": null
+      }
+    },
+    "_id": "cloud_data"
+  },
+  "cloud_gifts": {
+    "items": [],
+    "_id": "cloud_gifts"
+  },
+  "cloud_tasks": {
+    "items": [],
+    "_id": "cloud_tasks"
+  },
+  "tickets_config": {
+    "panels": {},
+    "_id": "tickets_config"
+  },
+  "tickets_data": {
+    "_id": "tickets_data"
+  },
+  "tickets_calls": {
+    "_id": "tickets_calls"
+  },
+  "bot_connection": {
+    "channel_id": null,
+    "was_connected": false,
+    "_id": "bot_connection"
+  },
+  "antifake_config": {
+    "enabled": false,
+    "min_days": 7,
+    "block_bots": false,
+    "_id": "antifake_config"
+  },
+  "antifake_authorized": {
+    "users": [],
+    "_id": "antifake_authorized"
+  },
+  "antifake_logs": {
+    "logs": {},
+    "_id": "antifake_logs"
+  },
+  "interaction_monitor_config": {
+    "enabled": true,
+    "_id": "interaction_monitor_config"
+  },
+  "notifications_email_config": {
+    "enabled": false,
+    "email": null,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_user": null,
+    "smtp_pass": null,
+    "use_tls": true,
+    "_id": "notifications_email_config"
+  },
+  "_meta_initialization": {
+    "_id": "_meta_initialization",
+    "initialized_at": 1784389940.6230206
+  }
+}
