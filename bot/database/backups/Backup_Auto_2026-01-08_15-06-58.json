@@ -1,0 +1,480 @@
+{
+    "guild": {
+        "id": 1457732163016458293,
+        "nome": "Zynx Applications",
+        "icon_url": "https://cdn.discordapp.com/icons/1457732163016458293/3f7215b7bdc808c5b9bc1df2689e83c6.png?size=1024",
+        "banner_url": null
+    },
+    "roles": [
+        {
+            "id": 1457732163016458293,
+            "name": "@everyone",
+            "color": 0,
+            "position": 0
+        },
+        {
+            "id": 1458619472989523980,
+            "name": "Membros",
+            "color": 16747520,
+            "position": 1
+        },
+        {
+            "id": 1458609867039440917,
+            "name": "./op",
+            "color": 0,
+            "position": 1
+        },
+        {
+            "id": 1458080500080967825,
+            "name": "Cargo de Verificado",
+            "color": 7975834,
+            "position": 1
+        },
+        {
+            "id": 1457778953455403265,
+            "name": "VisionBot",
+            "color": 0,
+            "position": 1
+        }
+    ],
+    "categories": [
+        {
+            "id": 1457732164392325141,
+            "name": "Canais de Texto",
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1457732164392325142,
+            "name": "Canais de Voz",
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1458836060254769246,
+            "name": "Logs",
+            "position": 1,
+            "overwrites": {}
+        }
+    ],
+    "channels": [
+        {
+            "id": 1458836076042125527,
+            "name": "logs-de-tickets",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 13,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458609770616328207,
+            "name": "teste-1",
+            "type": "text",
+            "category_id": null,
+            "position": 4,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836088595419186,
+            "name": "logs-de-cargos-removidos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 20,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836065602502912,
+            "name": "logs-de-entradas",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 7,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836102164119562,
+            "name": "logs-de-permissoes-removidas",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 28,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458546050007830721,
+            "name": "Total de membros: 1",
+            "type": "voice",
+            "category_id": null,
+            "position": 1,
+            "overwrites": {}
+        },
+        {
+            "id": 1458836083033903106,
+            "name": "logs-de-expulsoes",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 17,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836066806272145,
+            "name": "logs-de-saidas",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 8,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836081536405709,
+            "name": "logs-de-banimentos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 16,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836096719912972,
+            "name": "logs-de-canais-excluidos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 25,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836078009258047,
+            "name": "logs-de-comandos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 14,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836099425112074,
+            "name": "logs-de-canais-editados",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 26,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836079921725576,
+            "name": "logs-de-anti-falso",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 15,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836100813422715,
+            "name": "logs-de-permissoes-adicionadas",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 27,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836070731878556,
+            "name": "logs-de-trafego-em-call",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 10,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836074305425539,
+            "name": "feedback",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 12,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836063081468096,
+            "name": "logs-do-sistema",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 6,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836092106047519,
+            "name": "logs-de-cargos-excluidos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 22,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1457732164392325144,
+            "name": "Geral",
+            "type": "voice",
+            "category_id": 1457732164392325142,
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1458836087093989406,
+            "name": "logs-de-cargos-adicionados",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 19,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836060984578196,
+            "name": "boas-vindas",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 5,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836072430567496,
+            "name": "logs-de-pedidos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 11,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836094077632576,
+            "name": "logs-de-cargos-editados",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 23,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836068286857290,
+            "name": "logs-de-mensagens",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 9,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458613130274799890,
+            "name": "t",
+            "type": "text",
+            "category_id": 1457732164392325141,
+            "position": 2,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836095658758269,
+            "name": "logs-de-canais-criados",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 24,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836085021999167,
+            "name": "logs-de-castigos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 18,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1457798333190897706,
+            "name": "evento-de-compras",
+            "type": "text",
+            "category_id": null,
+            "position": 1,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836090202099907,
+            "name": "logs-de-cargos-criados",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 21,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1457858380151525429,
+            "name": "geral",
+            "type": "text",
+            "category_id": 1457732164392325141,
+            "position": 0,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        }
+    ],
+    "members": [
+        {
+            "id": 1449772867247018025,
+            "roles": [
+                1457778953455403265
+            ]
+        },
+        {
+            "id": 1379544267516678306,
+            "roles": [
+                1458609867039440917
+            ]
+        },
+        {
+            "id": 1380925608350978150,
+            "roles": [
+                1458619472989523980,
+                1458080500080967825
+            ]
+        },
+        {
+            "id": 1432011598209351822,
+            "roles": [
+                1458619472989523980,
+                1458609867039440917
+            ]
+        }
+    ],
+    "emojis": [
+        {
+            "id": 1457770390779728064,
+            "name": "zynx",
+            "animated": false,
+            "file": "emojis/96df213b906ef506db01c22beeb3e9c84aa138246ceea8390c529cc394001168.png"
+        }
+    ],
+    "stickers": [],
+    "messages": {}
+}

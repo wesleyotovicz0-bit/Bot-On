@@ -1,0 +1,14 @@
+{
+    "websocket_cloud": {
+        "server_url": "https://cloud.zenityapplications.com.br",
+        "http_url": "https://cloud.zenityapplications.com.br",
+        "reconnect_interval": 5,
+        "auto_start": true,
+        "jwt_secret": "zynx_secret_key"
+    },
+    "websocket_manager": {
+        "server_url": "https://cloud.zenityapplications.com.br",
+        "reconnect_interval": 5,
+        "auto_start": true
+    }
+}

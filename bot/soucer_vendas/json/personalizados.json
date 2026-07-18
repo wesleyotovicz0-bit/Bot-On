@@ -1,0 +1,22 @@
+{
+    "modo": "embed",
+    "painel_button": {
+        "msg": "{desc}\n\n**Valor:**\n`R${valor}`\n**Disponível:**\n`{estoque}`",
+        "button": {
+            "text": "Adquirir",
+            "style": 2,
+            "emoji": "<:sacola:1314603623732350986>"
+        },
+        "titulo": "{nome}"
+    },
+    "painel_select": {
+        "msg": "{desc}",
+        "titulo": "{nome}",
+        "select": {
+            "text": "{nome}",
+            "desc": "Valor: R${valor} | Disponível: {estoque}",
+            "emoji": "📦",
+            "place": "Selecione um produto."
+        }
+    }
+}

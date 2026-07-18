@@ -1,0 +1,15 @@
+{
+    "botID": "1475636770254360839",
+    "botToken": "MTQ3NTYzNjc3MDI1NDM2MDgzOQ.G4W_Py.tTO8E9FWOVTpSXH7H02tXSuKNtHzT9W8xCFFmQ",
+    "apiURL": "https://server-forge-ai--Wssscripts.replit.app",
+    "version": "0.0.3",
+    "syncEmojis": true,
+    "saveConfig": false,
+    "startOnBackup": false,
+    "bot": {
+        "token": "MTQ3NTYzNjc3MDI1NDM2MDgzOQ.G4W_Py.tTO8E9FWOVTpSXH7H02tXSuKNtHzT9W8xCFFmQ",
+        "owner": "1375136234694901831",
+        "id": "1475636770254360839",
+        "server": "1409705328865705996"
+    }
+}

@@ -1,0 +1,4191 @@
+{
+    "guild": {
+        "id": 1394505896817590453,
+        "nome": "Kenshi Atendimentos 💜",
+        "icon_url": "https://cdn.discordapp.com/icons/1394505896817590453/34ce88e154c477432dfd1821611c7c2a.png?size=1024",
+        "banner_url": "https://cdn.discordapp.com/banners/1394505896817590453/b3df5ab05e43e0fd8d5cc616f5fce4f4.png?size=1024"
+    },
+    "roles": [
+        {
+            "id": 1394505896817590453,
+            "name": "@everyone",
+            "color": 0,
+            "position": 0
+        },
+        {
+            "id": 1458915339021582379,
+            "name": "Testes",
+            "color": 0,
+            "position": 1
+        },
+        {
+            "id": 1458438508166385726,
+            "name": "Bot Auth",
+            "color": 0,
+            "position": 2
+        },
+        {
+            "id": 1458392863095128201,
+            "name": "zenSallers",
+            "color": 0,
+            "position": 3
+        },
+        {
+            "id": 1458117808369041586,
+            "name": "discord.gg/kenshiatedimentos",
+            "color": 16777215,
+            "position": 4
+        },
+        {
+            "id": 1450470112523194480,
+            "name": "Kenshi Security",
+            "color": 0,
+            "position": 5
+        },
+        {
+            "id": 1450452218867220492,
+            "name": "First Bot [Pepper]",
+            "color": 0,
+            "position": 6
+        },
+        {
+            "id": 1447018937085591654,
+            "name": "Cargo teste nao mexa",
+            "color": 6686145,
+            "position": 7
+        },
+        {
+            "id": 1444504112350888128,
+            "name": "novo cargo",
+            "color": 0,
+            "position": 8
+        },
+        {
+            "id": 1437625954074628116,
+            "name": "novo cargo",
+            "color": 0,
+            "position": 9
+        },
+        {
+            "id": 1434165182590091394,
+            "name": "PalmTree Bot",
+            "color": 0,
+            "position": 10
+        },
+        {
+            "id": 1419178549188890624,
+            "name": "麦 || 𝐕𝐈𝐏  •「Booster」愛",
+            "color": 16711864,
+            "position": 11
+        },
+        {
+            "id": 1418174391996514365,
+            "name": "✘ Ping Parcerias",
+            "color": 0,
+            "position": 12
+        },
+        {
+            "id": 1420057052314603621,
+            "name": "✘ Ping Reestock",
+            "color": 0,
+            "position": 13
+        },
+        {
+            "id": 1418172656066498602,
+            "name": "✘ Ping Eventos",
+            "color": 0,
+            "position": 14
+        },
+        {
+            "id": 1418173020496990309,
+            "name": "✘ Ping Sorteios",
+            "color": 0,
+            "position": 15
+        },
+        {
+            "id": 1418174072218583070,
+            "name": "✘ Ping Atualizações",
+            "color": 0,
+            "position": 16
+        },
+        {
+            "id": 1418173802084438017,
+            "name": "✘ Ping Avisos",
+            "color": 0,
+            "position": 17
+        },
+        {
+            "id": 1404963343025967114,
+            "name": "KS | Verificados",
+            "color": 1046640,
+            "position": 18
+        },
+        {
+            "id": 1394505896872251419,
+            "name": "Kenshi friend's",
+            "color": 2164285,
+            "position": 19
+        },
+        {
+            "id": 1404679896545890385,
+            "name": "KS | 「Membros」",
+            "color": 16773888,
+            "position": 20
+        },
+        {
+            "id": 1409631266067709952,
+            "name": "KS | Clientes",
+            "color": 2067276,
+            "position": 21
+        },
+        {
+            "id": 1409631385425023088,
+            "name": "KS | Cliente +",
+            "color": 219177,
+            "position": 22
+        },
+        {
+            "id": 1409631454002020465,
+            "name": "KS | Cliente Rico",
+            "color": 912490,
+            "position": 23
+        },
+        {
+            "id": 1411087845707481200,
+            "name": "KS | Booster",
+            "color": 15599532,
+            "position": 24
+        },
+        {
+            "id": 1409748363485646972,
+            "name": "Invite Tracker",
+            "color": 10181046,
+            "position": 25
+        },
+        {
+            "id": 1406829927113691228,
+            "name": "³ Advertência",
+            "color": 16711680,
+            "position": 26
+        },
+        {
+            "id": 1406829844766916659,
+            "name": "² Advertência",
+            "color": 16711680,
+            "position": 27
+        },
+        {
+            "id": 1406829732229550130,
+            "name": "¹ Advertência",
+            "color": 16711680,
+            "position": 28
+        },
+        {
+            "id": 1394505896847081522,
+            "name": "=====================",
+            "color": 0,
+            "position": 29
+        },
+        {
+            "id": 1399380952161058847,
+            "name": "==================",
+            "color": 0,
+            "position": 30
+        },
+        {
+            "id": 1394505896847081516,
+            "name": "=====================",
+            "color": 0,
+            "position": 31
+        },
+        {
+            "id": 1394505896830177409,
+            "name": "=====================",
+            "color": 0,
+            "position": 32
+        },
+        {
+            "id": 1394505896872251413,
+            "name": "=====================",
+            "color": 0,
+            "position": 33
+        },
+        {
+            "id": 1394505896830177406,
+            "name": "=====================",
+            "color": 0,
+            "position": 34
+        },
+        {
+            "id": 1394505896847081519,
+            "name": "=====================",
+            "color": 0,
+            "position": 35
+        },
+        {
+            "id": 1402421188151742466,
+            "name": "GS Defender",
+            "color": 10181046,
+            "position": 36
+        },
+        {
+            "id": 1394511049939488910,
+            "name": "🌙 Lobão",
+            "color": 0,
+            "position": 37
+        },
+        {
+            "id": 1394507294607282209,
+            "name": "Loritta",
+            "color": 0,
+            "position": 38
+        },
+        {
+            "id": 1394505896872251418,
+            "name": "麦 || 𝐕𝐈𝐏  •「designer 」愛",
+            "color": 5375,
+            "position": 39
+        },
+        {
+            "id": 1437628451443052666,
+            "name": "Ups",
+            "color": 3246016,
+            "position": 40
+        },
+        {
+            "id": 1394505896872251420,
+            "name": "KS | Vendedor",
+            "color": 16711680,
+            "position": 41
+        },
+        {
+            "id": 1409028832077283338,
+            "name": "KS | Suporte",
+            "color": 6323595,
+            "position": 42
+        },
+        {
+            "id": 1437308692658786425,
+            "name": "KS | ajudante",
+            "color": 15844367,
+            "position": 43
+        },
+        {
+            "id": 1437429771146362880,
+            "name": "KS | Moderador",
+            "color": 16711680,
+            "position": 44
+        },
+        {
+            "id": 1413167787127345396,
+            "name": "KS | Diretor",
+            "color": 30921,
+            "position": 45
+        },
+        {
+            "id": 1394505896884961396,
+            "name": "KS | Administrador",
+            "color": 65280,
+            "position": 46
+        },
+        {
+            "id": 1394505896884961400,
+            "name": "KS | Bots",
+            "color": 10181046,
+            "position": 47
+        },
+        {
+            "id": 1399411776960856205,
+            "name": "kENSHI | Dono",
+            "color": 11338481,
+            "position": 48
+        }
+    ],
+    "categories": [
+        {
+            "id": 1394505897463644170,
+            "name": "🚨 • IMPORTANTES",
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1425278613875331093,
+            "name": "💥・EVENTOS",
+            "position": 1,
+            "overwrites": {}
+        },
+        {
+            "id": 1425281884455309312,
+            "name": "🌟・REFERÊNCIAS",
+            "position": 2,
+            "overwrites": {}
+        },
+        {
+            "id": 1425285691537100800,
+            "name": "🛒・BLOX FRUITS",
+            "position": 3,
+            "overwrites": {}
+        },
+        {
+            "id": 1457647215509114953,
+            "name": "🛒・BRAINROTS",
+            "position": 4,
+            "overwrites": {}
+        },
+        {
+            "id": 1424423854515818546,
+            "name": "☎️・ATENDIMENTOS",
+            "position": 5,
+            "overwrites": {}
+        },
+        {
+            "id": 1394505898092662939,
+            "name": "🌎 • COMUNIDADE",
+            "position": 6,
+            "overwrites": {}
+        },
+        {
+            "id": 1425287755889381426,
+            "name": "🏪・STORES VENDEDORES",
+            "position": 7,
+            "overwrites": {}
+        },
+        {
+            "id": 1437627291835433041,
+            "name": "🆙・UPS",
+            "position": 8,
+            "overwrites": {}
+        },
+        {
+            "id": 1419822130828415028,
+            "name": "🗣・CANAIS DE VOZ",
+            "position": 9,
+            "overwrites": {}
+        },
+        {
+            "id": 1457534963753947267,
+            "name": "🛒・CARRINHOS",
+            "position": 10,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1049600
+                }
+            }
+        },
+        {
+            "id": 1394505898793242660,
+            "name": "⛩│  🔐  EQUIPE ─────────────╮",
+            "position": 11,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1458395595633987644,
+            "name": "Logs",
+            "position": 13,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        }
+    ],
+    "channels": [
+        {
+            "id": 1394505897807581300,
+            "name": "ま『🎁』・drops",
+            "type": "text",
+            "category_id": 1425278613875331093,
+            "position": 13,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 377957124096
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1458395600562290698,
+            "name": "📂╺╸notifyon",
+            "type": "text",
+            "category_id": 1458395595633987644,
+            "position": 69,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1419137375216599070,
+            "name": "📌・sugestões",
+            "type": "text",
+            "category_id": 1394505898793242660,
+            "position": 54,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1394505896872251420": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1409028832077283338": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                },
+                "1404963343025967114": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1457583706255528060,
+            "name": "ま『🍇』・frutas-ing",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 27,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1449927418059034877,
+            "name": "ま『🚀』・boost-benefícios",
+            "type": "text",
+            "category_id": 1394505897463644170,
+            "position": 9,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 2048
+                }
+            }
+        },
+        {
+            "id": 1409644255886184518,
+            "name": "ま『📒』・regras",
+            "type": "text",
+            "category_id": 1394505897463644170,
+            "position": 3,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1458395599614246933,
+            "name": "📂╺╸saídas",
+            "type": "text",
+            "category_id": 1458395595633987644,
+            "position": 68,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1419162773568356386,
+            "name": "ま『📣』・atualizações",
+            "type": "news",
+            "category_id": 1394505897463644170,
+            "position": 4,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 309237647360
+                }
+            }
+        },
+        {
+            "id": 1453667100089520158,
+            "name": "ま『📦』・pedir-stock",
+            "type": "text",
+            "category_id": 1394505898092662939,
+            "position": 43,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 2048,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1458395598461075486,
+            "name": "📂╺╸entradas",
+            "type": "text",
+            "category_id": 1458395595633987644,
+            "position": 67,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1411089796381675683,
+            "name": "ま『🚀』・boost",
+            "type": "text",
+            "category_id": 1394505897463644170,
+            "position": 10,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 2048
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1457583191266168985,
+            "name": "ま『🍐』・frutas-inv",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 26,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1457581087697145992,
+            "name": "ま『⚔️』・combo-cdk",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 23,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1445087197295411343,
+            "name": "📁・logs-auth",
+            "type": "text",
+            "category_id": 1394505898793242660,
+            "position": 61,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1425276563985006613,
+            "name": "ま『📍』・cargos-pings",
+            "type": "text",
+            "category_id": 1394505897463644170,
+            "position": 6,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1457587705620988001,
+            "name": "ま『🎲』・level-random",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 32,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1457579284406472890,
+            "name": "ま『🍏』・miticas-inv",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 22,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1457325630923346063,
+            "name": "🔊 CALL 3",
+            "type": "voice",
+            "category_id": 1419822130828415028,
+            "position": 2,
+            "overwrites": {}
+        },
+        {
+            "id": 1453634943262392480,
+            "name": "ま『🚚』・entregas-bot",
+            "type": "text",
+            "category_id": 1425281884455309312,
+            "position": 19,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 0
+                },
+                "1453894642201395332": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1458292650674356383": {
+                    "allow": 1126452615449616,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1425279674967265360,
+            "name": "ま『📆』・eventos",
+            "type": "text",
+            "category_id": 1425278613875331093,
+            "position": 16,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1457587227654754396,
+            "name": "ま『🪽』・combo-v4",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 31,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1394505898537385994,
+            "name": "ま『📷』・midias",
+            "type": "text",
+            "category_id": 1394505898092662939,
+            "position": 40,
+            "overwrites": {}
+        },
+        {
+            "id": 1394505897807581299,
+            "name": "ま『📢』・anuncios",
+            "type": "news",
+            "category_id": 1394505897463644170,
+            "position": 2,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1458395602684608524,
+            "name": "📂╺╸tráfego",
+            "type": "text",
+            "category_id": 1458395595633987644,
+            "position": 71,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1457582046816768191,
+            "name": "ま『🥷』・combo-ttk",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 24,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1457585401798856815,
+            "name": "ま『⚓』・shark-anchor",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 29,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1457586218257879162,
+            "name": "ま『🩸』・sanguine-art",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 30,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1458395596137173073,
+            "name": "📂╺╸system",
+            "type": "text",
+            "category_id": 1458395595633987644,
+            "position": 65,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1394505898092662942,
+            "name": "ま『🔨』・comandos",
+            "type": "text",
+            "category_id": 1394505898092662939,
+            "position": 41,
+            "overwrites": {}
+        },
+        {
+            "id": 1413955952146780230,
+            "name": "ま『✅』・real-ou-fake",
+            "type": "text",
+            "category_id": 1394505897463644170,
+            "position": 5,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1437630486452113489,
+            "name": "ま『📦』・entregas-up",
+            "type": "text",
+            "category_id": 1437627291835433041,
+            "position": 51,
+            "overwrites": {}
+        },
+        {
+            "id": 1420875788009345247,
+            "name": "ま『📬』・reestock",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 20,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 377957124096
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 309237647360
+                }
+            }
+        },
+        {
+            "id": 1445088804011773963,
+            "name": "ま『🧩』・verifique-se",
+            "type": "text",
+            "category_id": 1394505897463644170,
+            "position": 7,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 2048
+                },
+                "1404679896545890385": {
+                    "allow": 377957123072,
+                    "deny": 2048
+                }
+            }
+        },
+        {
+            "id": 1419136638264807526,
+            "name": "💬・chat-staff",
+            "type": "text",
+            "category_id": 1394505898793242660,
+            "position": 53,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1394505896872251420": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "930606120245018634": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1104432680214470740": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "949367390070779904": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1404963343025967114": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1409028832077283338": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1323542905729581086": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1394505898092662937,
+            "name": "ま『🎉』・sorteio-1",
+            "type": "text",
+            "category_id": 1425278613875331093,
+            "position": 14,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 2048
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                },
+                "1394505896884961396": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1399967624179482734,
+            "name": "ま『🚛』・entregas",
+            "type": "text",
+            "category_id": 1425281884455309312,
+            "position": 18,
+            "overwrites": {
+                "930606120245018634": {
+                    "allow": 35840,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1413509937614815262,
+            "name": "ま『🔄』・trades",
+            "type": "text",
+            "category_id": 1394505898092662939,
+            "position": 39,
+            "overwrites": {
+                "1104432680214470740": {
+                    "allow": 0,
+                    "deny": 0
+                },
+                "1394505896884961396": {
+                    "allow": 0,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1458395597638733855,
+            "name": "📂╺╸logspedidos",
+            "type": "text",
+            "category_id": 1458395595633987644,
+            "position": 66,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1410840102657327124,
+            "name": "ま『🤑』・brainrots-bom",
+            "type": "text",
+            "category_id": 1457647215509114953,
+            "position": 34,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1457584973358829608,
+            "name": "ま『🥭』・frutas-lendárias",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 28,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1449438907946111168,
+            "name": "🤖・canal-so-meu",
+            "type": "text",
+            "category_id": 1394505898793242660,
+            "position": 57,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 274877906944,
+                    "deny": 1024
+                },
+                "1104432680214470740": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1384206918318559262": {
+                    "allow": 1024,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1420901206158610543,
+            "name": "ま『🗃』・sugestões",
+            "type": "text",
+            "category_id": 1394505897463644170,
+            "position": 12,
+            "overwrites": {}
+        },
+        {
+            "id": 1453672077159698552,
+            "name": "ま『👊』・contas-godhuman",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 21,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1425277965285064875,
+            "name": "ま『🗳』・votação",
+            "type": "text",
+            "category_id": 1394505897463644170,
+            "position": 8,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1458068526848802866,
+            "name": "ま『🛡』・brainrot-aleatório",
+            "type": "text",
+            "category_id": 1457647215509114953,
+            "position": 35,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1457582546807292068,
+            "name": "ま『🍩』・dough-v2",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 25,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1394505898793242661,
+            "name": "🔔・𝚁𝚎𝚞𝚗𝚒𝚊𝚘-staff",
+            "type": "text",
+            "category_id": 1394505898793242660,
+            "position": 55,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 3072
+                },
+                "1394505896884961396": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1104432680214470740": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "930606120245018634": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1391010505501573241": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1323542905729581086": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "297153970613387264": {
+                    "allow": 1024,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1419822175988351087,
+            "name": "🔊 CALL 1",
+            "type": "voice",
+            "category_id": 1419822130828415028,
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1394509643576901642,
+            "name": "ま『📩』・ticket",
+            "type": "text",
+            "category_id": 1424423854515818546,
+            "position": 36,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 274877906944,
+                    "deny": 2048
+                },
+                "1323542905729581086": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                },
+                "930606120245018634": {
+                    "allow": 1024,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1458395601493295116,
+            "name": "📂╺╸mensagens",
+            "type": "text",
+            "category_id": 1458395595633987644,
+            "position": 70,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1429616070645383168,
+            "name": "ま『🎉』・sorteio-2",
+            "type": "text",
+            "category_id": 1425278613875331093,
+            "position": 15,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 2048
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                },
+                "1394505896884961396": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1437630052123541505,
+            "name": "ま『📄』・tabela-up",
+            "type": "text",
+            "category_id": 1437627291835433041,
+            "position": 49,
+            "overwrites": {
+                "1404679896545890385": {
+                    "allow": 1024,
+                    "deny": 2048
+                }
+            }
+        },
+        {
+            "id": 1419822583896871004,
+            "name": "🔊 CALL 2",
+            "type": "voice",
+            "category_id": 1419822130828415028,
+            "position": 1,
+            "overwrites": {}
+        },
+        {
+            "id": 1399966725906104400,
+            "name": "ま『🦝』・grow-a-garden",
+            "type": "text",
+            "category_id": 1425285691537100800,
+            "position": 33,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                },
+                "930606120245018634": {
+                    "allow": 35840,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1409754518131966073,
+            "name": "📁・logs-invite",
+            "type": "text",
+            "category_id": 1394505898793242660,
+            "position": 60,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1457320146506088511,
+            "name": "ま『🌊』・ajuda",
+            "type": "text",
+            "category_id": 1394505898092662939,
+            "position": 42,
+            "overwrites": {}
+        },
+        {
+            "id": 1419137410855338045,
+            "name": "✉️・avisos-staff",
+            "type": "text",
+            "category_id": 1394505898793242660,
+            "position": 56,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1394505896872251420": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1409028832077283338": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 103079217152
+                },
+                "1404963343025967114": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1437630840908681246,
+            "name": "ま『💥』・feedback-ups",
+            "type": "text",
+            "category_id": 1437627291835433041,
+            "position": 52,
+            "overwrites": {}
+        },
+        {
+            "id": 1394505898092662940,
+            "name": "ま『💬』・chat-geral",
+            "type": "text",
+            "category_id": 1394505898092662939,
+            "position": 38,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 377957124096,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 515396340736,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1458395603783520276,
+            "name": "📂╺╸ticket",
+            "type": "text",
+            "category_id": 1458395595633987644,
+            "position": 72,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1394505898793242663,
+            "name": "📁・𝙻𝚘𝚐𝚜-servidor",
+            "type": "text",
+            "category_id": 1394505898793242660,
+            "position": 59,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 3072
+                },
+                "1394505896884961396": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1104432680214470740": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "930606120245018634": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1391010505501573241": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1323542905729581086": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1384206918318559262": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "297153970613387264": {
+                    "allow": 1024,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1394505897463644173,
+            "name": "ま『💜』・feedbacks",
+            "type": "text",
+            "category_id": 1425281884455309312,
+            "position": 17,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 377957124096
+                },
+                "1404679896545890385": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1458395604546883652,
+            "name": "📂╺╸solicitacoes-estoque",
+            "type": "text",
+            "category_id": 1458395595633987644,
+            "position": 73,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1437620794111955155,
+            "name": "ま『🥷🏾』・sengl1ngz",
+            "type": "text",
+            "category_id": 1425287755889381426,
+            "position": 44,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 2048,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 103079216128,
+                    "deny": 274877908992
+                },
+                "1201996307200213092": {
+                    "allow": 4012103703198801,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1437630272723091456,
+            "name": "ま『📒』・termos-up",
+            "type": "text",
+            "category_id": 1437627291835433041,
+            "position": 50,
+            "overwrites": {}
+        },
+        {
+            "id": 1411777946993037434,
+            "name": "📁・canal-de-configurações-favor-não-apagar",
+            "type": "text",
+            "category_id": 1394505898793242660,
+            "position": 58,
+            "overwrites": {
+                "1394505896817590453": {
+                    "allow": 0,
+                    "deny": 3072
+                },
+                "1394505896872251420": {
+                    "allow": 1024,
+                    "deny": 0
+                },
+                "1404679896545890385": {
+                    "allow": 0,
+                    "deny": 4012103703182353
+                },
+                "1104432680214470740": {
+                    "allow": 1024,
+                    "deny": 0
+                }
+            }
+        }
+    ],
+    "members": [
+        {
+            "id": 1458910669742149703,
+            "roles": [
+                1458915339021582379,
+                1458117808369041586,
+                1404679896545890385,
+                1394505896884961400,
+                1399411776960856205
+            ]
+        },
+        {
+            "id": 1420309498320654367,
+            "roles": [
+                1458117808369041586,
+                1404963343025967114,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1105540109568327701,
+            "roles": [
+                1458117808369041586,
+                1394511049939488910
+            ]
+        },
+        {
+            "id": 1424380676123136090,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1010638770011394169,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1081683860527530075,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385,
+                1409631266067709952
+            ]
+        },
+        {
+            "id": 1386464548151758969,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1328377440124276798,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1402903647767105536,
+            "roles": [
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 836741223074365450,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1217996658969677877,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1308157738026799106,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1442833388183621662,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385,
+                1411087845707481200
+            ]
+        },
+        {
+            "id": 1397783465629585501,
+            "roles": [
+                1458117808369041586,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1211547291593351288,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1341089024361889935,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1308217410742124564,
+            "roles": [
+                1458117808369041586,
+                1404963343025967114,
+                1404679896545890385,
+                1394505896884961396
+            ]
+        },
+        {
+            "id": 1452428698778337281,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385,
+                1411087845707481200
+            ]
+        },
+        {
+            "id": 1380925608350978150,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1364764765649502289,
+            "roles": [
+                1458117808369041586,
+                1404963343025967114,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1323542905729581086,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404963343025967114,
+                1404679896545890385,
+                1409631266067709952,
+                1409631385425023088,
+                1409631454002020465,
+                1437628451443052666,
+                1394505896872251420,
+                1409028832077283338,
+                1394505896884961400,
+                1399411776960856205
+            ]
+        },
+        {
+            "id": 785577864007122984,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1442342889316290600,
+            "roles": [
+                1458117808369041586,
+                1420057052314603621,
+                1404679896545890385,
+                1409631266067709952
+            ]
+        },
+        {
+            "id": 1407772274999951484,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1198456859888209980,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1457018139907985461,
+            "roles": [
+                1458117808369041586,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1381456978236276789,
+            "roles": [
+                1458117808369041586,
+                1420057052314603621,
+                1404963343025967114,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1178789517751230557,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385,
+                1409631266067709952
+            ]
+        },
+        {
+            "id": 1432575160732352542,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385,
+                1409631266067709952
+            ]
+        },
+        {
+            "id": 1384206918318559262,
+            "roles": [
+                1458117808369041586,
+                1418174072218583070,
+                1404963343025967114,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1195038696945242233,
+            "roles": [
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1440688383419482273,
+            "roles": [
+                1458117808369041586,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1435349581855723631,
+            "roles": [
+                1458117808369041586,
+                1418174072218583070,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 714599160560615499,
+            "roles": [
+                1458117808369041586,
+                1418173020496990309,
+                1418174072218583070,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1424954310017552494,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1049681367350398986,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1449211390177972314,
+            "roles": [
+                1458117808369041586,
+                1418172656066498602,
+                1404963343025967114,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1397157029684183153,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1374911691984470109,
+            "roles": [
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1443271439632306300,
+            "roles": [
+                1458117808369041586,
+                1418173020496990309,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1314656918685351957,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1421888012027039754,
+            "roles": [
+                1458117808369041586,
+                1420057052314603621,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1420847081442115655,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385,
+                1394505896872251418
+            ]
+        },
+        {
+            "id": 777225541928747008,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1450465352759644371,
+            "roles": [
+                1458117808369041586,
+                1450470112523194480,
+                1404679896545890385,
+                1394505896884961400
+            ]
+        },
+        {
+            "id": 1394658274619424920,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1201996307200213092,
+            "roles": [
+                1458117808369041586,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418173802084438017,
+                1404679896545890385,
+                1437628451443052666,
+                1394505896872251420
+            ]
+        },
+        {
+            "id": 1442807818032779316,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385,
+                1411087845707481200
+            ]
+        },
+        {
+            "id": 1132291546469892137,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404963343025967114,
+                1404679896545890385,
+                1406829732229550130
+            ]
+        },
+        {
+            "id": 1442827349451214929,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404963343025967114,
+                1404679896545890385,
+                1411087845707481200,
+                1394505896884961396
+            ]
+        },
+        {
+            "id": 1449080521786134774,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385,
+                1411087845707481200
+            ]
+        },
+        {
+            "id": 1405594559282548746,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385,
+                1409631266067709952
+            ]
+        },
+        {
+            "id": 917876663205916703,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1411462531448307912,
+            "roles": [
+                1458117808369041586,
+                1420057052314603621,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1431981080415698965,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404963343025967114,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1431226984024768583,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1432520510188818645,
+            "roles": [
+                1458117808369041586,
+                1450452218867220492,
+                1404679896545890385,
+                1394505896884961400
+            ]
+        },
+        {
+            "id": 1091869270088102019,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 880095766130065429,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1434925962809839670,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 843242363312799754,
+            "roles": [
+                1458117808369041586,
+                1420057052314603621,
+                1404679896545890385,
+                1411087845707481200
+            ]
+        },
+        {
+            "id": 1271973813781004452,
+            "roles": [
+                1458117808369041586,
+                1404963343025967114,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 297153970613387264,
+            "roles": [
+                1458117808369041586,
+                1394507294607282209,
+                1394505896884961400
+            ]
+        },
+        {
+            "id": 1284864442755977317,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1404679896545890385,
+                1409631266067709952
+            ]
+        },
+        {
+            "id": 1181832150543249458,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385,
+                1409631266067709952
+            ]
+        },
+        {
+            "id": 687851126116319245,
+            "roles": [
+                1458117808369041586,
+                1420057052314603621,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1422053054718541826,
+            "roles": [
+                1458117808369041586,
+                1434165182590091394
+            ]
+        },
+        {
+            "id": 1326482026651717762,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1384288760178409734,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1254442536907313254,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1391010505501573241,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 994381038325334168,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385,
+                1409631266067709952
+            ]
+        },
+        {
+            "id": 1290498854927466560,
+            "roles": [
+                1458117808369041586,
+                1418172656066498602,
+                1418173020496990309,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1169740980468076654,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385,
+                1411087845707481200,
+                1394505896872251418,
+                1394505896872251420
+            ]
+        },
+        {
+            "id": 1193150429735956521,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404963343025967114,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1458292650674356383,
+            "roles": [
+                1458392863095128201,
+                1458117808369041586,
+                1404679896545890385,
+                1394505896884961400,
+                1399411776960856205
+            ]
+        },
+        {
+            "id": 1368711164632105010,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 930606120245018634,
+            "roles": [
+                1458117808369041586,
+                1404963343025967114,
+                1404679896545890385,
+                1409631266067709952,
+                1394505896872251420
+            ]
+        },
+        {
+            "id": 1197515540571357187,
+            "roles": [
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1434374288521035827,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1452659221635137566,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385,
+                1411087845707481200
+            ]
+        },
+        {
+            "id": 1417912129671139369,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1453894642201395332,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385,
+                1394505896884961400
+            ]
+        },
+        {
+            "id": 720351927581278219,
+            "roles": [
+                1458117808369041586,
+                1409748363485646972
+            ]
+        },
+        {
+            "id": 1393642995462705203,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404963343025967114,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1450896351582883954,
+            "roles": [
+                1458117808369041586,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1037108339538153584,
+            "roles": [
+                1458117808369041586,
+                1402421188151742466
+            ]
+        },
+        {
+            "id": 1458343926690877534,
+            "roles": [
+                1458438508166385726,
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1424782626673135687,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1418174072218583070,
+                1418173802084438017,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1396605966471921676,
+            "roles": [
+                1458117808369041586,
+                1404963343025967114,
+                1404679896545890385,
+                1409631266067709952,
+                1409631385425023088
+            ]
+        },
+        {
+            "id": 1104432680214470740,
+            "roles": [
+                1458117808369041586,
+                1418174391996514365,
+                1418172656066498602,
+                1418174072218583070,
+                1404963343025967114,
+                1404679896545890385,
+                1409631266067709952,
+                1437308692658786425,
+                1437429771146362880,
+                1413167787127345396,
+                1394505896884961396
+            ]
+        },
+        {
+            "id": 842469100374851654,
+            "roles": [
+                1458117808369041586,
+                1420057052314603621,
+                1418172656066498602,
+                1418173020496990309,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 972914296113758218,
+            "roles": [
+                1458117808369041586,
+                1420057052314603621,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 949367390070779904,
+            "roles": [
+                1458117808369041586,
+                1404963343025967114,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1396537767659442206,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        },
+        {
+            "id": 1404609680252338426,
+            "roles": [
+                1458117808369041586,
+                1404679896545890385
+            ]
+        }
+    ],
+    "emojis": [
+        {
+            "id": 1432899980053577740,
+            "name": "japurple_cometaM",
+            "animated": false,
+            "file": "emojis/9600f77ff0300ae3bc8ae64808a593706f79587d3ff7e4dce9d94d0b172eab31.png"
+        },
+        {
+            "id": 1432900021627519068,
+            "name": "d_emoji_416",
+            "animated": false,
+            "file": "emojis/1a9c820890c055806864a56ad7fb47985aa5eb8815258d77f6115ca5545dadee.png"
+        },
+        {
+            "id": 1432900121645027529,
+            "name": "zCarrinhoDeCompras",
+            "animated": false,
+            "file": "emojis/03e1d3b04b51932fa2f4e2ce15bc493a87229c39c15b6b8c871fbc23a9ccc2c5.png"
+        },
+        {
+            "id": 1432900240276590606,
+            "name": "vendedor",
+            "animated": false,
+            "file": "emojis/0f7fb4208301f8b418e7c9380908fa3528655266baf9e01ee600c3d0380527d4.png"
+        },
+        {
+            "id": 1432900304155840632,
+            "name": "telefone",
+            "animated": true,
+            "file": "emojis/6949207a53e94a70e87e8ec8091c87cbf0c2a1008bc87138f3eab15dc0fd6b84.gif"
+        },
+        {
+            "id": 1432900354600734895,
+            "name": "tick",
+            "animated": true,
+            "file": "emojis/7451ed9113198000938ac1d93708ce4dc9d533834587c6ea3a403dc1b9d3d9c2.gif"
+        },
+        {
+            "id": 1432900396963201159,
+            "name": "sharkboy",
+            "animated": true,
+            "file": "emojis/589d61a5891ec535181f127e7ee07735cc87b14d0b83b9760dbc88bb42faa6d4.gif"
+        },
+        {
+            "id": 1432900462704853022,
+            "name": "scam",
+            "animated": true,
+            "file": "emojis/3fffabd5e15199957612dcc93a01b11aa0a6b5ac235bd74470dee12a7e593e36.gif"
+        },
+        {
+            "id": 1432900529792618496,
+            "name": "presente",
+            "animated": true,
+            "file": "emojis/fb0e3bfd2ef6bb6e1fc7a9c23832ffedd4305c824502371f03f97695d36ab158.gif"
+        },
+        {
+            "id": 1432900584259850382,
+            "name": "ney_love",
+            "animated": true,
+            "file": "emojis/bc4b1712cc011e7130695ce50133de5ad25059319a40b24dc7ec5acd1c1d921b.gif"
+        },
+        {
+            "id": 1432900759401398415,
+            "name": "Carrinho",
+            "animated": false,
+            "file": "emojis/b3e615725480cdcb6263837312ef2e16dd00a5f2db600bedb70e3b31efb3f5b1.png"
+        },
+        {
+            "id": 1432900791286497410,
+            "name": "Suporte",
+            "animated": false,
+            "file": "emojis/15a652a5d465fcdeb565aeb65ff49d65a23a0570ee85248ec0ca259803cc8917.png"
+        },
+        {
+            "id": 1432900876418285648,
+            "name": "staff",
+            "animated": true,
+            "file": "emojis/781248bb46019465f147614effa20a8b63b4440e08e3b1127b3cd6460d2d429e.gif"
+        },
+        {
+            "id": 1432900963269873715,
+            "name": "relogio1",
+            "animated": true,
+            "file": "emojis/2f85f9cf8c599590465c1d9f7d329316482b9ea97d48bdc8e7f49878845c46e7.gif"
+        },
+        {
+            "id": 1432901045247545444,
+            "name": "AAAAAUGH",
+            "animated": true,
+            "file": "emojis/7c36722ca144bc86093c68df3f1bae92e3736f8b8588205a3d740fad8b9dcab4.gif"
+        },
+        {
+            "id": 1432901079275802747,
+            "name": "Dinheiro_Gothamcity",
+            "animated": false,
+            "file": "emojis/e596061cf568e471999a45a5d22c9ce4e6af1709bc8b05c96ce3778c433af9c9.png"
+        },
+        {
+            "id": 1432901127099252786,
+            "name": "Escudo",
+            "animated": false,
+            "file": "emojis/67911d0c1214406ac02d4273bcdbfc80b64fadfc6d1a357154c633f3b00cc9c6.png"
+        },
+        {
+            "id": 1432901158191501503,
+            "name": "EscudoAzul",
+            "animated": false,
+            "file": "emojis/0f407eaf5bdc9f0426df225bc366c4cfde73bd9ae64769a4ad4a96629a15e6b0.png"
+        },
+        {
+            "id": 1432901195143315521,
+            "name": "EscudoRojo",
+            "animated": false,
+            "file": "emojis/2f65ad9f7dae76884ad1e07b38cd7ad00ff44694789dfc2d136b362c7478213a.png"
+        },
+        {
+            "id": 1432901250776694927,
+            "name": "EscudoRosa",
+            "animated": false,
+            "file": "emojis/08a9a4f74ab2be04a4a7d22bfd2ed6426d7c2039da25be0724860090bdec4e79.png"
+        },
+        {
+            "id": 1432901277309866105,
+            "name": "IconA_Owner_Crown",
+            "animated": false,
+            "file": "emojis/5a1046055614cf73129788bef918d6038bd406f419a75caefbe0a3f3b98dc9e8.png"
+        },
+        {
+            "id": 1432901399947251896,
+            "name": "escudo_azulclaro",
+            "animated": false,
+            "file": "emojis/7820af47a38a13972aeddc2887ec4faa11444a564b1ef2dcc94b1d93f7924e18.png"
+        },
+        {
+            "id": 1432901646467334186,
+            "name": "f_3141moneybagandcoins_PD",
+            "animated": false,
+            "file": "emojis/d82d0db29d61995c21e22183952f797e7e80fefd9397f29263bccbda47640930.png"
+        },
+        {
+            "id": 1432901673319403621,
+            "name": "Money",
+            "animated": false,
+            "file": "emojis/aec12c680e5eae3c7085fb0a3b1af8d61a7daa6b2ca5db4eb2d5b12b55dbf671.png"
+        },
+        {
+            "id": 1432901734782472224,
+            "name": "hg_caixa100",
+            "animated": false,
+            "file": "emojis/7dc44a1eabc5274892af66b54884290ddee5b7613457cf96f69ab950aaad2908.png"
+        },
+        {
+            "id": 1432901935421329439,
+            "name": "StaffMesServer",
+            "animated": false,
+            "file": "emojis/ea683eb9b527cd353b632752a2f68fc7ec75ceee82ce6fde7f81abf71701aa6f.png"
+        },
+        {
+            "id": 1432902285197054064,
+            "name": "Picsart_240722_161033741",
+            "animated": false,
+            "file": "emojis/67486983fb0c1724d9eb37d447d05bc324896ca53521a4c27ad2810dfcb425e5.png"
+        },
+        {
+            "id": 1432910400025919560,
+            "name": "66025catjam",
+            "animated": true,
+            "file": "emojis/7582b04393fc35f47c17939569247d7d7324dd1c852c8c38e74b68d8c9c9df25.gif"
+        },
+        {
+            "id": 1432913642688348231,
+            "name": "cliente",
+            "animated": false,
+            "file": "emojis/ab134109d5ac091dfe55570ec42ce46442d1a803eea8e820bfd2cc58e08304ae.png"
+        },
+        {
+            "id": 1432913816156635277,
+            "name": "box_central_store",
+            "animated": false,
+            "file": "emojis/81de9462da70209768cf073a36a4c548232e6602c3bd95e5f61b82e46203683f.png"
+        },
+        {
+            "id": 1432913818484215838,
+            "name": "carteira_central_store",
+            "animated": false,
+            "file": "emojis/ff048641d7dae9a43721bc20b4e1e30747f3cee4f64f147e47a26504a12912ba.png"
+        },
+        {
+            "id": 1432913909278445721,
+            "name": "emoji_248",
+            "animated": false,
+            "file": "emojis/98ac4c5494e38b082a4df5d161638532eae96f02cc384878e2d5046ef4c434de.png"
+        },
+        {
+            "id": 1432913911618867201,
+            "name": "shiga_Sim",
+            "animated": false,
+            "file": "emojis/73d63fd996b07f3d378f629772eb9a32a566b43713a7bc0b46041a6438688c07.png"
+        },
+        {
+            "id": 1432913913405771819,
+            "name": "shiga_Sim",
+            "animated": false,
+            "file": "emojis/73d63fd996b07f3d378f629772eb9a32a566b43713a7bc0b46041a6438688c07.png"
+        },
+        {
+            "id": 1432913915217448963,
+            "name": "shiga_nao",
+            "animated": false,
+            "file": "emojis/b28e43ed297a570848f307f51bf1462df8b4f4747bb657b42d176fdf30564020.png"
+        },
+        {
+            "id": 1432913917264527411,
+            "name": "shiga_nao",
+            "animated": false,
+            "file": "emojis/b28e43ed297a570848f307f51bf1462df8b4f4747bb657b42d176fdf30564020.png"
+        },
+        {
+            "id": 1432914276502343680,
+            "name": "Hys_tokitonhe",
+            "animated": true,
+            "file": "emojis/d3d9e7c1fd8fac263f75c07059d25e5af3999d615604f75028c9a350f4f38c64.gif"
+        },
+        {
+            "id": 1432914776253534389,
+            "name": "money",
+            "animated": true,
+            "file": "emojis/157e9bd770b5b512de13714b320ab272fa3b87a30f19bbc13fe0ce9342dcd40e.gif"
+        },
+        {
+            "id": 1432914778065473658,
+            "name": "aten",
+            "animated": false,
+            "file": "emojis/e0fcb002ee079efb70561d3e6724e7d3e5d7076fcfb2317e981da77898aa875b.png"
+        },
+        {
+            "id": 1432914781911781489,
+            "name": "A_staff",
+            "animated": false,
+            "file": "emojis/7143716d3d1d84d22b184370a33f2e7c31d485c6c314ae332f7f87ef0949c259.png"
+        },
+        {
+            "id": 1432963251670352023,
+            "name": "confeteesquerdo",
+            "animated": true,
+            "file": "emojis/c05150cb7e51106b2313ecc93b2bea1c6043a290868876c265a916a57928125d.gif"
+        },
+        {
+            "id": 1432963357266411624,
+            "name": "Avisos",
+            "animated": false,
+            "file": "emojis/07d6c1386a79be40e23dc7305e6f5a6d4d783a297f1f154ae33d001d2306bc03.png"
+        },
+        {
+            "id": 1433056960814780467,
+            "name": "aviso",
+            "animated": true,
+            "file": "emojis/d6c182dba1343bcae9fea45d6c4c8ca707a7b3d9edbe9512990fbd8750c9d357.gif"
+        },
+        {
+            "id": 1433056962894893086,
+            "name": "c_trofeu",
+            "animated": true,
+            "file": "emojis/c2c07f6f17995a0e1aac96b44afcbf1593aa7525b2280a14f88151ffa1d205ba.gif"
+        },
+        {
+            "id": 1433056964002316489,
+            "name": "calendrio",
+            "animated": false,
+            "file": "emojis/5c56c1b9f13653699ec3685ffe6b0095024580fe9dca2e00b2ccbefdd3820a1e.png"
+        },
+        {
+            "id": 1433056966711836763,
+            "name": "clock_gif",
+            "animated": true,
+            "file": "emojis/10504482c95998ea9ceaa2e79664c679f7525274ada16f83b303d5f2b930ed93.gif"
+        },
+        {
+            "id": 1433059842704150578,
+            "name": "red_alerta",
+            "animated": true,
+            "file": "emojis/9463542a85fe08a3243074e75f178b8db0fe35fe49f3d69b553932b338a1bd65.gif"
+        },
+        {
+            "id": 1433059852376211507,
+            "name": "e26",
+            "animated": false,
+            "file": "emojis/49fe5d16cc63e3a00e436a9d87c1eb847dd27ae18ca04414ba837a5244611482.png"
+        },
+        {
+            "id": 1433060103698780161,
+            "name": "6ac_rules_white",
+            "animated": false,
+            "file": "emojis/cd4f8e4ef66384972d0b931d620e6e26b5efb95b98107d3a23ea7c18510b86a1.png"
+        },
+        {
+            "id": 1433060105246736478,
+            "name": "6ahite_mod",
+            "animated": false,
+            "file": "emojis/f1bb2f0f343d3593660bc70f4260e57e67cd9fda875eb31c8fe5a0a7ba47fa71.png"
+        },
+        {
+            "id": 1433060114457165905,
+            "name": "6awhite_arrow",
+            "animated": false,
+            "file": "emojis/317d8ac71b6e708f6d99551faa776b5ca4a75be0e475781d8d1d1fb73674a49f.png"
+        },
+        {
+            "id": 1433060118223654983,
+            "name": "javriied_Developer_Badge_Purple",
+            "animated": false,
+            "file": "emojis/d724fe5862ef16362230892b56157e94d30122b9d37bed720954367fd3ec10e0.png"
+        },
+        {
+            "id": 1433060119964549270,
+            "name": "jamembers_purple",
+            "animated": false,
+            "file": "emojis/ec1fc2d23bb39a20253625e96eafdd8d60802453095fb1bd2e72b104798a1505.png"
+        },
+        {
+            "id": 1433060241578266807,
+            "name": "jbpurple_glow",
+            "animated": false,
+            "file": "emojis/976e61c1b1fed277532b9971639320e6b38eec60f522c361130ccfa5964104ec.png"
+        },
+        {
+            "id": 1433062018113474610,
+            "name": "documents",
+            "animated": false,
+            "file": "emojis/5dbcbb67d27ef7145a51c635add6b889ddaca42b43e87c5c3826dff8ba01a3b7.png"
+        },
+        {
+            "id": 1433062023004028928,
+            "name": "white_mod",
+            "animated": false,
+            "file": "emojis/f1bb2f0f343d3593660bc70f4260e57e67cd9fda875eb31c8fe5a0a7ba47fa71.png"
+        },
+        {
+            "id": 1433062025239728138,
+            "name": "verifiedred",
+            "animated": true,
+            "file": "emojis/27803c9fce6182871a1da0f8afcafc0a163542bd056fd4fb6d0d8f92120512e8.gif"
+        },
+        {
+            "id": 1433062894957887619,
+            "name": "alert",
+            "animated": true,
+            "file": "emojis/d372e3a28f7035f2645b335e3b47416e55a29a7c70158ff9827a7595366a46a3.gif"
+        },
+        {
+            "id": 1433062904785145936,
+            "name": "a13",
+            "animated": true,
+            "file": "emojis/08bc34327a1e266663c7c789ec51959d3b928fa760b1cb9e8c6f2c628107c013.gif"
+        },
+        {
+            "id": 1433062907381289104,
+            "name": "au",
+            "animated": true,
+            "file": "emojis/ffcc1c2f6ad7587ac939e7ac72551271c7b1727c7aba6230bc60cb28ceb41827.gif"
+        },
+        {
+            "id": 1433062910065901721,
+            "name": "nitro_ad",
+            "animated": true,
+            "file": "emojis/68a07db8283ed11b6fb3a840be235286c4ca63698701737a3044c0d23abd4c40.gif"
+        },
+        {
+            "id": 1433094301453258763,
+            "name": "Sy_verifado",
+            "animated": true,
+            "file": "emojis/a8695ddf3e8e8e3ea6f59735cc6ee7c4d3ff5ef8280a7089e272ac683823ad0c.gif"
+        },
+        {
+            "id": 1433094304255184896,
+            "name": "Sy_verifado10",
+            "animated": true,
+            "file": "emojis/ee37546df99db6baac8e7a18ee56f7f678091da1871e67992d2716169dce083f.gif"
+        },
+        {
+            "id": 1433094306767437947,
+            "name": "Sy_verifado11",
+            "animated": true,
+            "file": "emojis/7c1986c2c1f46005eec2d700a2259729eee4ff369a8c00fee3ad22d1ea7471e3.gif"
+        },
+        {
+            "id": 1433094309493735474,
+            "name": "Sy_verifado12",
+            "animated": true,
+            "file": "emojis/4edfb4c40d7881a5ca0ceed17db564da77850692cd930c235d1d6bf584e286e1.gif"
+        },
+        {
+            "id": 1433094312433815706,
+            "name": "Sy_verifado2",
+            "animated": true,
+            "file": "emojis/0a5be70e6dd819c3a025ef94509875d34eb81c33784b761ed582aca01b37201c.gif"
+        },
+        {
+            "id": 1433094315902636175,
+            "name": "Sy_verifado4",
+            "animated": true,
+            "file": "emojis/afab7b3d66fa98334d539bc151e4df0c8def83bc530fbfff8a815a83c71732d8.gif"
+        },
+        {
+            "id": 1433094319836762254,
+            "name": "Sy_verifado5",
+            "animated": true,
+            "file": "emojis/f5b040f4fc7c9efb6155d5126691fb81026fa2d026388d217cdbe42085affd0f.gif"
+        },
+        {
+            "id": 1433094322655330408,
+            "name": "Sy_verifado6",
+            "animated": true,
+            "file": "emojis/565ff583ccbc34475b2c4f526cb9ba1bfdf52b4b487870bee5429198212bb142.gif"
+        },
+        {
+            "id": 1433094326308704567,
+            "name": "Sy_verifado7",
+            "animated": true,
+            "file": "emojis/3c8ac1c9f7407bf69a4f47e7d7a0a1f3a5b37c2710687f4ef4ad5d99f7cbd613.gif"
+        },
+        {
+            "id": 1433094333006876782,
+            "name": "Sy_verifado9",
+            "animated": true,
+            "file": "emojis/39876aca0c755aa62169a04007746db8c3106ce7d085589b9a0566a910bd7c41.gif"
+        },
+        {
+            "id": 1433094335754272930,
+            "name": "Sy_verificado3",
+            "animated": true,
+            "file": "emojis/05504e8f902cdfbd49009270738acf5c4994c783fadf4ca9ff9708a4f7f3fa21.gif"
+        },
+        {
+            "id": 1433107194466795623,
+            "name": "amigo",
+            "animated": false,
+            "file": "emojis/0c9b9dea78669f931116a8670f670516547734a7bfed17df4c5163f17f034f11.png"
+        },
+        {
+            "id": 1433114146488188978,
+            "name": "interrogacaolotus",
+            "animated": false,
+            "file": "emojis/4ea24a601535907e71c0e55cdff60e19b56d7fcd8c3a40310a461f2bf8d74ed7.png"
+        },
+        {
+            "id": 1433114156340613120,
+            "name": "srdark_g_brancocoracao1",
+            "animated": true,
+            "file": "emojis/cc42dc6979733f8f6fdd73843b9b6c8bcbfbb6a9e5b01e572f0b8eafc4970416.gif"
+        },
+        {
+            "id": 1433114158672515254,
+            "name": "srdark_meme_ta_SrDark",
+            "animated": true,
+            "file": "emojis/7bc39eb792215926cdeb02b750252f791ec1e00123c8ec118ab5ce8fda647e49.gif"
+        },
+        {
+            "id": 1433611279377109012,
+            "name": "hm",
+            "animated": false,
+            "file": "emojis/0e60e2b02bb2143d3f868e5d227208994a811138e1f90ee710c9d49d2eb9aa84.png"
+        },
+        {
+            "id": 1433611282057134121,
+            "name": "Metroman",
+            "animated": true,
+            "file": "emojis/96c1a18e9f0bd8eb121f4b1c558ca7dcf2658f36921ddcf862ea1f597e4c32a3.gif"
+        },
+        {
+            "id": 1433611285177831434,
+            "name": "Nerd_Dog",
+            "animated": false,
+            "file": "emojis/f95e2495c084e73cdcd1aee81b1d5377781274e66588cabf60ff7bbb17837c62.png"
+        },
+        {
+            "id": 1433999611328200894,
+            "name": "roles1",
+            "animated": false,
+            "file": "emojis/fc54c161f521f6e7a504b9ced47ff59cb2f32639715d5713e83e61177a65704f.png"
+        },
+        {
+            "id": 1433999623738888312,
+            "name": "Estrela",
+            "animated": true,
+            "file": "emojis/75b9b4855f6dcd2660bc140ad46b148f593836652d3fb835c953ed82df1425fe.gif"
+        },
+        {
+            "id": 1434003180265541794,
+            "name": "vcheck",
+            "animated": false,
+            "file": "emojis/1bb0f421479a7136addff78f3c23b2314ff95ce02de815169dc4c1d4aacbed40.png"
+        },
+        {
+            "id": 1434013819222364271,
+            "name": "yes",
+            "animated": false,
+            "file": "emojis/46516118cd5654d73952a51775691e5e37297e050521acb5a2c4e2343334977d.png"
+        },
+        {
+            "id": 1434208603748831286,
+            "name": "no",
+            "animated": false,
+            "file": "emojis/1412ed69a30a1864b099ead48e32ccac87baf8498cfcf1d2828affe5ceed229a.png"
+        },
+        {
+            "id": 1436916705010909215,
+            "name": "loanding",
+            "animated": true,
+            "file": "emojis/314d1196065f35a16da7a4e4bb519f92d6281d11fe0d220c3a3310491ff11094.gif"
+        },
+        {
+            "id": 1436916710367039599,
+            "name": "emoji_2",
+            "animated": false,
+            "file": "emojis/b1231c8277f4b97c139cf916669f387d59be9a150bbcf908d02da118461a1c9c.png"
+        },
+        {
+            "id": 1436916712632225975,
+            "name": "emoji_26",
+            "animated": false,
+            "file": "emojis/934080c40ca55dcac5dfe4724d9ebaf14678f72d0f74fa6fcda9f8d3e2c07d91.png"
+        },
+        {
+            "id": 1436916714968191110,
+            "name": "e_suporte",
+            "animated": false,
+            "file": "emojis/335f1c8ce67477e1d6a6e3c8a3b1981d9e50949b58142d032f7e21816c70f1a5.png"
+        },
+        {
+            "id": 1436916721658232994,
+            "name": "emoji_249",
+            "animated": false,
+            "file": "emojis/bb763e7d5e46d184286bdc4ab27b0b2a130b0a0460c6c060db416c6d281000fd.png"
+        },
+        {
+            "id": 1436916891456241816,
+            "name": "DiamanteB",
+            "animated": true,
+            "file": "emojis/9f006490792b4660ef28913f8c07a142077833eb82e5b3f2dae0b46b93fa0796.gif"
+        },
+        {
+            "id": 1436916893154807808,
+            "name": "ghmmnice91",
+            "animated": false,
+            "file": "emojis/c52342e6071ead49c7aeb102c343ab5b647b43b622a1dcc912f7a455bb61e4fb.png"
+        },
+        {
+            "id": 1436916894761484439,
+            "name": "emoji_14",
+            "animated": false,
+            "file": "emojis/e8bef2c354b4fa7cc0652a395547bdf53db87fb1cb3da1a5eead6a996f5aab3f.png"
+        },
+        {
+            "id": 1436916898368454677,
+            "name": "dinheiro",
+            "animated": false,
+            "file": "emojis/327b681500662ca2422caef0d7c237d55526db97af69f9da0ab199edfa9742d0.png"
+        },
+        {
+            "id": 1436916899886661736,
+            "name": "sad_money",
+            "animated": true,
+            "file": "emojis/158062088f8e3ab5d0242637d908cbfe9693d2a0df2c1934023b5d8ec91be08a.gif"
+        },
+        {
+            "id": 1436916987983827056,
+            "name": "seta",
+            "animated": true,
+            "file": "emojis/c456a2ea718f7d735a13e5219ec83d23d00a74703cd98304e86c4c3fa975fbbb.gif"
+        },
+        {
+            "id": 1436916990479437975,
+            "name": "seta_azul2",
+            "animated": false,
+            "file": "emojis/15f4ee01f75e83a7c47f5ce519d0af616446caf0a72df4ef7fd7c3eec13572b5.png"
+        },
+        {
+            "id": 1436916994917273600,
+            "name": "seta_piscando",
+            "animated": true,
+            "file": "emojis/0e196a27e22573c94a33a33df14ed987429d2fb760e9603b259b7bf9b2e9c594.gif"
+        },
+        {
+            "id": 1436916996775346327,
+            "name": "seta_roxa",
+            "animated": false,
+            "file": "emojis/352aabe77dd40871ea92ceabb339553e249c9e8afc6c8129ad28462ea11de2b1.png"
+        },
+        {
+            "id": 1436916998624903250,
+            "name": "seta_vermelha",
+            "animated": false,
+            "file": "emojis/b3fe4887efb8153a4f7d7e40c716ac0986c3eb7fb6e52867aec542cabef8e960.png"
+        },
+        {
+            "id": 1436917000218738871,
+            "name": "rindo",
+            "animated": true,
+            "file": "emojis/d7d7fc53a37c7ad801937bee4d5502c567ccee0bde08c791d550fc8c8d0bec5f.gif"
+        },
+        {
+            "id": 1436917003150430228,
+            "name": "regras_livro",
+            "animated": true,
+            "file": "emojis/b2eec9911cdd78cdcf7c2828833b5f467f45f08d48f1a013722c8a6ddc851222.gif"
+        },
+        {
+            "id": 1436917004987531335,
+            "name": "regras",
+            "animated": false,
+            "file": "emojis/e443a3d1c846846c0e0c34d9fa06285b89d9e7fc795d8c891f31cbd75c948cb8.png"
+        },
+        {
+            "id": 1437044233851764827,
+            "name": "Machadin_5",
+            "animated": false,
+            "file": "emojis/685291617d376555a1725d027b318bc93cc248bf928086f77b45bf505c475b9e.png"
+        },
+        {
+            "id": 1437044244744507533,
+            "name": "nao",
+            "animated": true,
+            "file": "emojis/02b9fdcfbed37edde4b4944f610c7ff13d8229e0cbb19d3cfa878525598e9aff.gif"
+        },
+        {
+            "id": 1437044246988456070,
+            "name": "nao",
+            "animated": false,
+            "file": "emojis/57e253d36fe2230b6f61a10ef5f235f4e1608898adf4fd3936878b28d7c23f1c.png"
+        },
+        {
+            "id": 1437045766966349834,
+            "name": "setarosa",
+            "animated": false,
+            "file": "emojis/bed5cf8356411ab65811f314bc4b1a61eeeaf65a1992349e96bc125f4ed08707.png"
+        },
+        {
+            "id": 1437045768660844628,
+            "name": "invite",
+            "animated": false,
+            "file": "emojis/b670d0d49683c65550c2a1b7871034e5ddcc8bd9c63e16f5d370c5cb2fc05a72.png"
+        },
+        {
+            "id": 1437045772398104677,
+            "name": "jbz10purple_regrassuf",
+            "animated": false,
+            "file": "emojis/396c0d807c7b587976a27be0897907564091a60a6cfecfe46b31f5c07f02ed49.png"
+        },
+        {
+            "id": 1437045775807942656,
+            "name": "japurple_cloud_tick",
+            "animated": false,
+            "file": "emojis/6bf657ee059b21d7c2b723d1bd553c00c96d2e4a372e7df66c7b2f40772b1719.png"
+        },
+        {
+            "id": 1437093690400182292,
+            "name": "robo2",
+            "animated": false,
+            "file": "emojis/1fbf284e628145a9d569513c81d6853e873724fb7a9c1e805b70f03bc5a327c7.png"
+        },
+        {
+            "id": 1437093691801210991,
+            "name": "se",
+            "animated": true,
+            "file": "emojis/a6ce7bcb8034eaea7e95f2a59f161700e90cf8a1011d8a8587c1e48d15b42a31.gif"
+        },
+        {
+            "id": 1437093702794215624,
+            "name": "discordanimado",
+            "animated": true,
+            "file": "emojis/aae0f30db12110221c1f8cb55d5ebbfa805f301c68f1f9a047b92fe8fd53b2da.gif"
+        },
+        {
+            "id": 1437093704761344031,
+            "name": "emoji_46",
+            "animated": false,
+            "file": "emojis/c12a46a68f3dd88b05007f9ad842023279eaf3f29a950d52dd328d87fe459e5a.png"
+        },
+        {
+            "id": 1437255017919807599,
+            "name": "random",
+            "animated": false,
+            "file": "emojis/6664422371400beb92373d5dafedabcfcec3047449daf8f6682b36601dcc21bd.png"
+        },
+        {
+            "id": 1437255021619056720,
+            "name": "NA_CrownPurple_",
+            "animated": false,
+            "file": "emojis/3b4c57760351ceae7203fb9cb01e9773c4c5ed10280d3d3db0d45358fe79c815.png"
+        },
+        {
+            "id": 1437255052426350765,
+            "name": "Coroa_natalina_sleep",
+            "animated": false,
+            "file": "emojis/0a388a398485d8db07f1af99ebd57b525e3ea0a2a9212629a01948784db540e5.png"
+        },
+        {
+            "id": 1437305089621758033,
+            "name": "nitro_boost",
+            "animated": true,
+            "file": "emojis/e42a1070f0866708b21aa74c0d67d041d08d1eb750ee86fd01ee6ffa0ef844ac.gif"
+        },
+        {
+            "id": 1437306493899767879,
+            "name": "73155boost",
+            "animated": false,
+            "file": "emojis/57d378bf083e90041dbae3be7fe1093091539c3a9fedcb6818ba15b10b8ddf93.png"
+        },
+        {
+            "id": 1437308130148220928,
+            "name": "BloxFruits",
+            "animated": false,
+            "file": "emojis/9345f4765eac1482e5b1ca0938b3306313ddab0b81998eab2b8966b2ff9a4b1e.png"
+        },
+        {
+            "id": 1437557664161861822,
+            "name": "ERRADO_1",
+            "animated": false,
+            "file": "emojis/5e460f7b3dfc98992d1be10a115f7592227422fcf23c24b11cb2934d41295951.png"
+        },
+        {
+            "id": 1437557668905619487,
+            "name": "emoji_26",
+            "animated": true,
+            "file": "emojis/c005ae0e4ce0fe55a367aaa282fc260abcee029f3345bc5e5fdb420ae1bfd7c0.gif"
+        },
+        {
+            "id": 1441819767957749880,
+            "name": "checkmark",
+            "animated": true,
+            "file": "emojis/d2a7f4f66428d17af3acd69b09ad85db57216bc83323436cff6af5f8da44de82.gif"
+        },
+        {
+            "id": 1449125931754197103,
+            "name": "SUPORTE",
+            "animated": false,
+            "file": "emojis/0165588ab79122fef1eb3d4bec8c3ccacd99a20eb0edfdd16e86742de1dd1133.png"
+        },
+        {
+            "id": 1450963216480997437,
+            "name": "setaAzul__",
+            "animated": false,
+            "file": "emojis/86ecc23e3de518b82322cd06f0ac811f1799866cba249eda5b3baf46ebd6182a.png"
+        },
+        {
+            "id": 1450979980225024042,
+            "name": "Sy_verifado8",
+            "animated": true,
+            "file": "emojis/0c078b0cc9c9d27c8283d3dc64c28c5459d89240e1df84a17d23e013c837d0f2.gif"
+        },
+        {
+            "id": 1450980985565876226,
+            "name": "check_02",
+            "animated": false,
+            "file": "emojis/08af0d83d9d45b2c4ead9b070d9776645fbcb61c3720ab0612c997105c0f54f6.png"
+        },
+        {
+            "id": 1451033125478989917,
+            "name": "Boost",
+            "animated": false,
+            "file": "emojis/cf010671188be6fec57daa84706a5d5eeaad6de8d60dfcc632b42d6980b39398.png"
+        },
+        {
+            "id": 1451033127441928307,
+            "name": "regras",
+            "animated": false,
+            "file": "emojis/e443a3d1c846846c0e0c34d9fa06285b89d9e7fc795d8c891f31cbd75c948cb8.png"
+        },
+        {
+            "id": 1451041793788608572,
+            "name": "robomidiaapps",
+            "animated": false,
+            "file": "emojis/cdc7c37a3d41d6f69e7d64c9050ac3fad65dc1049a1f7a621765124676c1c726.png"
+        },
+        {
+            "id": 1451041804786073712,
+            "name": "relogio",
+            "animated": false,
+            "file": "emojis/06000a738ce17e7da6d3f1cd2b29a104851a35386897af262f72abbc67c9c5a8.png"
+        },
+        {
+            "id": 1451041812172247091,
+            "name": "teamo",
+            "animated": false,
+            "file": "emojis/6f256661aa087fef20e38ea2ffefbab18705542aa609c35ba740f0e2ed74b5c7.png"
+        },
+        {
+            "id": 1451042236468035696,
+            "name": "8wumpushelper",
+            "animated": false,
+            "file": "emojis/258db56f993850e048f7f7e3d653f02d2f80b45415fa3cf7553922cb5bd4e86b.png"
+        },
+        {
+            "id": 1451042243757608960,
+            "name": "diamante",
+            "animated": false,
+            "file": "emojis/3a6aa6275a3f614540e80100b4723a8b29891619b3efd7d56206a45442f2d452.png"
+        },
+        {
+            "id": 1451042245024288859,
+            "name": "thonk",
+            "animated": false,
+            "file": "emojis/960a1ec1ccc746ad94aa75d78fe17af61dedc1007a922a4d434f08b1a9a4c45a.png"
+        },
+        {
+            "id": 1451042422141222923,
+            "name": "kbpurple_dark_butterfly",
+            "animated": true,
+            "file": "emojis/f2e0f965e129230b7771dd538d3e845cf5a7839abba665035ac3c38d635fc6f5.gif"
+        },
+        {
+            "id": 1451042425903780057,
+            "name": "kaverifyed_purple",
+            "animated": true,
+            "file": "emojis/419b75ad12c051678a6814a1b1acd557f0c5b768b7ce2d440b8bb2e72ad69e54.gif"
+        },
+        {
+            "id": 1451743450600046775,
+            "name": "compra",
+            "animated": false,
+            "file": "emojis/13aaa3b0b6e0614069d0217f793c0371114928e52ba7cf2e0b95ab19bf0142ab.png"
+        },
+        {
+            "id": 1451743451912732744,
+            "name": "card",
+            "animated": false,
+            "file": "emojis/18211104fcbc7324791d387bc2c4edd9d590f8992cd0a7144bec501d356bcd7d.png"
+        },
+        {
+            "id": 1451743933263511652,
+            "name": "owner_hexagon",
+            "animated": false,
+            "file": "emojis/9f8407e8cd07f1cf593c017a69eec1a52ccde0c377c58ad419162b702d7001e7.png"
+        },
+        {
+            "id": 1451744049789669386,
+            "name": "Wump_Gift",
+            "animated": false,
+            "file": "emojis/28825c282483b570edc9ae49e6eff05831c38677b7e32095013ec1e4bef8ddd4.png"
+        },
+        {
+            "id": 1451744276865220610,
+            "name": "notify",
+            "animated": true,
+            "file": "emojis/50ddf894187e49d2bbf99c369f7e737589c8630ddcab6b48a5a64036096886c6.gif"
+        },
+        {
+            "id": 1451744279595847782,
+            "name": "sirene_",
+            "animated": true,
+            "file": "emojis/9463542a85fe08a3243074e75f178b8db0fe35fe49f3d69b553932b338a1bd65.gif"
+        },
+        {
+            "id": 1451744282275872951,
+            "name": "Server_Boost",
+            "animated": true,
+            "file": "emojis/8eeb3ea801b84564dbdd6a6aea939744a27ea00d8d66ead4002925b48b351f20.gif"
+        },
+        {
+            "id": 1452112727655973019,
+            "name": "Coroa2Galaxy",
+            "animated": true,
+            "file": "emojis/ce9cf7a1f2b6ceeb6650dc29e66ecb7dd64e01f7bd3d452b6f08631b6d661245.gif"
+        },
+        {
+            "id": 1453525066959683675,
+            "name": "Dinehiro",
+            "animated": false,
+            "file": "emojis/03629ca7065a93acdba60274ec1c803f5e34aa6ba36558ba4415075753ddcdab.png"
+        },
+        {
+            "id": 1453525068993921175,
+            "name": "corrigir",
+            "animated": false,
+            "file": "emojis/cd2bec10d4f071ea6c41d4c4c29e3c4ec0da7d0477e271339e55c9eb215c44a3.png"
+        },
+        {
+            "id": 1453525072806416549,
+            "name": "check",
+            "animated": true,
+            "file": "emojis/4be7c7da60abd5fb8c5f06abcefc297fa1220a0b380b203a64c0e3cc48a9ab0e.gif"
+        },
+        {
+            "id": 1453525076619300874,
+            "name": "zz1_booster",
+            "animated": true,
+            "file": "emojis/b3f7bd6fcbaa9de5eb399b5ae546233be3fa1effeafe7fc192d2767a74341b33.gif"
+        },
+        {
+            "id": 1453554217691250752,
+            "name": "white_exclamation",
+            "animated": true,
+            "file": "emojis/f23e0b8b4ff2a3e0c758e0c27e4ffbb036df4207239403d9928d94deb4bf85d8.gif"
+        },
+        {
+            "id": 1453554219394011146,
+            "name": "Loading",
+            "animated": true,
+            "file": "emojis/747ecf140ad26acc5a5c6e68dc7d14dcf4b1e206f0dc93543ffad7a21cdeb1b5.gif"
+        },
+        {
+            "id": 1453574572040523786,
+            "name": "s_carregando",
+            "animated": true,
+            "file": "emojis/886b1e9dd20ef2c96d3b6d9fb2991a9b8b410f0fdb9bc832a8376cef51b63efa.gif"
+        },
+        {
+            "id": 1453574582564028521,
+            "name": "1239709868621959278",
+            "animated": true,
+            "file": "emojis/0efa2378b272afdd134512ebc7bce422dcae16263155cddd244dec4d8f1c793a.gif"
+        },
+        {
+            "id": 1453590793901183068,
+            "name": "calendar",
+            "animated": true,
+            "file": "emojis/782963def5f7bfaabd8cad5ee5154a12f352a161462db34911113451985b9851.gif"
+        },
+        {
+            "id": 1453590795226710098,
+            "name": "calendar",
+            "animated": false,
+            "file": "emojis/9e8fcff8fd000fcc12caee810e30be49460b75d3d6b6531cae125ce323a8a8ba.png"
+        },
+        {
+            "id": 1453590808409407642,
+            "name": "Booster",
+            "animated": false,
+            "file": "emojis/57be2d0451da0d153bf134d5a075b2a1f61897b19f60e014089b5cf26894fccc.png"
+        },
+        {
+            "id": 1453590810636582923,
+            "name": "Rei",
+            "animated": false,
+            "file": "emojis/3f3adfe20befb134b86c0ca4c865a4e888c3d570b374b23c833786462ca8e9f2.png"
+        },
+        {
+            "id": 1453590812066582644,
+            "name": "coroa",
+            "animated": false,
+            "file": "emojis/0c4403242ed711692817e3ddec8d1026cd3f55ed11cedb3c5918c595e4f107f7.png"
+        },
+        {
+            "id": 1453590813522264116,
+            "name": "comunidade",
+            "animated": false,
+            "file": "emojis/4c7c23245fad968aea8974017b248bf92abbb34d7fcb4915af3396a61afda73d.png"
+        },
+        {
+            "id": 1453590815766220975,
+            "name": "vendedor",
+            "animated": false,
+            "file": "emojis/95f0f719e2faeda435c6981f920cd9412203c29bbf71ae9c222d48a2dcfe641d.png"
+        },
+        {
+            "id": 1453590817724956846,
+            "name": "verificado",
+            "animated": false,
+            "file": "emojis/a468b4bf810a37cd8898f9c312f9f29c8e11f0ff2c95415fa1fe3695f51272fe.png"
+        },
+        {
+            "id": 1453590822049153115,
+            "name": "coraozinho_Hyken",
+            "animated": true,
+            "file": "emojis/682233f9131e81be90168f237b47e48f5463584a055b8bb0b0e59c64858f33cc.gif"
+        },
+        {
+            "id": 1453591446513909770,
+            "name": "Fruta_Random",
+            "animated": false,
+            "file": "emojis/62f187b02dbb4be02edea836526760eccefffbfa488547af6ad53ac05a6903f7.png"
+        },
+        {
+            "id": 1453591451542749319,
+            "name": "Pix",
+            "animated": false,
+            "file": "emojis/cdda97385c00207abf21a5ac8b45040d4023930ae7dac5fcc5699d4b8c5ecaff.png"
+        },
+        {
+            "id": 1453591455254708277,
+            "name": "produtoentregue",
+            "animated": false,
+            "file": "emojis/dff9c784c2d39af9a8021a0f6d682c449f7e625e408a70886397c0cb836ccdb0.png"
+        },
+        {
+            "id": 1453591460468363327,
+            "name": "srdark_d_robux",
+            "animated": false,
+            "file": "emojis/b0cdd8f1861d3c83c1f8414f56e73a89ba7f37de38ba8f2af63c12dca4d2f61f.png"
+        },
+        {
+            "id": 1453591461898620960,
+            "name": "fone_suporte",
+            "animated": false,
+            "file": "emojis/726f10cdc3037113cfc40b94fbb8e99aa957f2189baaf055e3c7ebe4e59f5610.png"
+        },
+        {
+            "id": 1453591464293564546,
+            "name": "denuncia",
+            "animated": true,
+            "file": "emojis/a3dcfa8c3673b5e2cda1cc20d37f8e1f7a1e219d1de8e9fa920b5aeae1e621b7.gif"
+        },
+        {
+            "id": 1453591468223631402,
+            "name": "dinheiro",
+            "animated": false,
+            "file": "emojis/bf381b448acf143dbd7c509d92b5483363a8e17c8de21c586beede438f7f8949.png"
+        },
+        {
+            "id": 1453591470819770605,
+            "name": "check_yes",
+            "animated": true,
+            "file": "emojis/4be7c7da60abd5fb8c5f06abcefc297fa1220a0b380b203a64c0e3cc48a9ab0e.gif"
+        },
+        {
+            "id": 1453591478067662951,
+            "name": "aviso",
+            "animated": false,
+            "file": "emojis/7b2d456b249a855e8b595230caf355170a25ad23728447bfdf7efc19f58784b3.png"
+        },
+        {
+            "id": 1453659730013589638,
+            "name": "mais_mnks",
+            "animated": false,
+            "file": "emojis/6f66bd7b8893bbae85e11394cbcf71d3adbafa32397333f4d948bd2e3befd849.png"
+        },
+        {
+            "id": 1453659734505816085,
+            "name": "ligado",
+            "animated": false,
+            "file": "emojis/ec3fa1f1367d8965aa2b000aef6fa2fae69feda93ba2bc07d7e746361d855468.png"
+        },
+        {
+            "id": 1457272324775739402,
+            "name": "1_fruit_storage_47",
+            "animated": false,
+            "file": "emojis/66f4012061baccee778e3eff1685ed12a0d5cfcd997b2c4771ce5e386f1dd1a2.png"
+        },
+        {
+            "id": 1457272326319243264,
+            "name": "2xMastery",
+            "animated": false,
+            "file": "emojis/19607c81d6bfd4baf33e0c32792531daa9c0be0c35cc87aab33151b8d4420d73.png"
+        },
+        {
+            "id": 1457272327611088937,
+            "name": "2xBossDrop",
+            "animated": false,
+            "file": "emojis/a93625418dfdc3eae472ee12a934dd5044e7a5430c2f9b66a18c8a2dcd4057ab.png"
+        },
+        {
+            "id": 1457272329338880031,
+            "name": "2xMoney",
+            "animated": false,
+            "file": "emojis/d14424c5733935dc069fdcb40111ec29dcfc9fdefe2fb894d48752b20ec79f63.png"
+        },
+        {
+            "id": 1457272331532505193,
+            "name": "2x_mastery_43",
+            "animated": false,
+            "file": "emojis/57af10530c64f4a0dbdfa258f996d56cc0e3e0400b9bc11e0c94de616ae92d38.png"
+        },
+        {
+            "id": 1457272333512478863,
+            "name": "2x_money_45",
+            "animated": false,
+            "file": "emojis/47f2e55827a212eef67ab84b7f6fafd8ba17feb2f60225f3b66ee3d097066f60.png"
+        },
+        {
+            "id": 1457272334980481199,
+            "name": "DragonEast",
+            "animated": false,
+            "file": "emojis/36e6f88415237f10e18464eca5de3585125b62123437cdfb2908b0697b65ea10.png"
+        },
+        {
+            "id": 1457272336490430646,
+            "name": "Dragon_28West29Fruit",
+            "animated": false,
+            "file": "emojis/22b1822ae3da15b7bcd41ea692111bc1a87336f56eb5151cca8ca711a8f14046.png"
+        },
+        {
+            "id": 1457272337866162349,
+            "name": "GAS",
+            "animated": false,
+            "file": "emojis/8f7b1d50a1d6ea32a079ca7bb0f1d014a4fa98c1f21e7aa25d21afc4e8d6dc40.png"
+        },
+        {
+            "id": 1457272340814495808,
+            "name": "MammothFruit",
+            "animated": false,
+            "file": "emojis/663f5830821d70303a60c49a8028cef395218ecf5a0e224c00e1e45dbb3b747a.png"
+        },
+        {
+            "id": 1457272343456907314,
+            "name": "srdark_bb_roxoborboleta_SrDark",
+            "animated": true,
+            "file": "emojis/4f7ee16461317845ea6508c11391154aa29b42290a1f9b9c8ede9498ebffc475.gif"
+        },
+        {
+            "id": 1457272345013260430,
+            "name": "roxostar",
+            "animated": true,
+            "file": "emojis/5b036c54383fd1e1f372e04a6f0b17ecf8df44b3ffd5c072d5f7da5daef16474.gif"
+        },
+        {
+            "id": 1457272346636320798,
+            "name": "srdark_bb_setapequena4_SrDark",
+            "animated": true,
+            "file": "emojis/dc12b799bd805a6306083524702e999f9117bc737efba76aa70f6825f89a2b1f.gif"
+        },
+        {
+            "id": 1457272348347732141,
+            "name": "srdark_bb_roxolacinho_SrDark",
+            "animated": true,
+            "file": "emojis/6db439bb8ba25ce5b6c2e7a1e935fc98e49683941e8acfc9b35c1213c8dd0df5.gif"
+        },
+        {
+            "id": 1457272350289428530,
+            "name": "srdark_bb_roxoestrelinha",
+            "animated": true,
+            "file": "emojis/6a41501485ce549e7e57d7c5c84cf0a85c51835dab08130ec6bbb25257559efe.gif"
+        },
+        {
+            "id": 1457272351895978076,
+            "name": "srdark_bb_roxocoracoes_SrDark",
+            "animated": true,
+            "file": "emojis/f0f455a9e8bc6b7644a2b21270cecf796ae211ae269967a47f4701ae88152d1b.gif"
+        },
+        {
+            "id": 1457272353737150556,
+            "name": "srdark_bb_festaroxo",
+            "animated": true,
+            "file": "emojis/e3197dcd497d403f8ef2ee97c30b956d3d29be53c86ae1d342fb95f60dd14a50.gif"
+        },
+        {
+            "id": 1457272356199469100,
+            "name": "2362_Flying_Hearts_Purple",
+            "animated": true,
+            "file": "emojis/95c605c111f5ef7c44b3d6003cbd1d6909ca0343141ad1cb47d3f55ea1007bf9.gif"
+        },
+        {
+            "id": 1457272520335036600,
+            "name": "Parceria",
+            "animated": true,
+            "file": "emojis/16d4dd6e091800ddc378b9c563e8d053508404511af61f63248dd2c898d868bd.gif"
+        },
+        {
+            "id": 1457272522243313685,
+            "name": "Dough_BloxFruits",
+            "animated": false,
+            "file": "emojis/185282dde466552025fc52d944a772534a36a09eabb219ce13d8af34a81dbbe9.png"
+        },
+        {
+            "id": 1457272523883417621,
+            "name": "Gravity_Rework",
+            "animated": false,
+            "file": "emojis/552d6c7f08c1604f0a9a19a709ba81414a8d145fdb6489e6c8baff86936200a1.png"
+        },
+        {
+            "id": 1457272524739182654,
+            "name": "Gravity_BloxFruits",
+            "animated": false,
+            "file": "emojis/749a6ceb680cb71817ef27e077fffda89dde0dc163a54e856bb479dfa6c82b55.png"
+        },
+        {
+            "id": 1457272526597128356,
+            "name": "Cursed_Dual_Katana",
+            "animated": false,
+            "file": "emojis/39860cc97d7ef93159d3a03704434610f053c8efafdb5beeb834ea867a32def7.png"
+        },
+        {
+            "id": 1457272527989772433,
+            "name": "guitar",
+            "animated": false,
+            "file": "emojis/79fc9bcf4c0aa64db0c37717246f3d4c7b87448364bbc3366716a03acd026dd5.png"
+        },
+        {
+            "id": 1457272529143074901,
+            "name": "godhuman",
+            "animated": false,
+            "file": "emojis/0d168c7d65f7df5cd53355c6c280bc04b1a0bc8649b092a50f3ee9c928dfd60a.png"
+        },
+        {
+            "id": 1457272531001282621,
+            "name": "sharkanchor",
+            "animated": false,
+            "file": "emojis/f168fbcaca2d10380cf29869530e839351d900f030d7099fe3e1dc5d24134d9a.png"
+        },
+        {
+            "id": 1457272532272152744,
+            "name": "sanguine",
+            "animated": false,
+            "file": "emojis/65ec82afbb67efc7615167f98377938c94de4e3842dd297ef31d9eb832b79e71.png"
+        },
+        {
+            "id": 1457295601942266053,
+            "name": "DarkBlade",
+            "animated": false,
+            "file": "emojis/1e5cf7c1829eb071a89ae29b91a2b0291dc867817515ab144b28824e1e59ac58.png"
+        },
+        {
+            "id": 1457295603598885006,
+            "name": "47361permbloxfruits",
+            "animated": false,
+            "file": "emojis/6f61cb744d145dec10faba294633e8abe516a386a0547d5fb2af50bedf58676c.png"
+        },
+        {
+            "id": 1457295607873015954,
+            "name": "DarkBlade",
+            "animated": false,
+            "file": "emojis/e9af37994e8ca6713516304f495c4a9232cb19c6587491ab3e58246dfb76ef20.png"
+        },
+        {
+            "id": 1457295609957580894,
+            "name": "BSTrueTripleKatana",
+            "animated": false,
+            "file": "emojis/576be24a628a5eea7808f9b9293254409d82c27d89c1416c7774693ed0a3cb4c.png"
+        },
+        {
+            "id": 1457295611740291072,
+            "name": "inf_Robux",
+            "animated": false,
+            "file": "emojis/cf07034aa9781a22025b9802f8df9bdd0a88377ef92b14961d3b8a800855522d.png"
+        },
+        {
+            "id": 1457295613313024053,
+            "name": "Inf_GojoRebolando",
+            "animated": true,
+            "file": "emojis/23fbae37d8fe6dfbd8d32b5aa8c72e60d1ba880780da5ab9a8f14cb0d66ec1c1.gif"
+        },
+        {
+            "id": 1457295615863160915,
+            "name": "Inf_ban",
+            "animated": true,
+            "file": "emojis/e63a88646dc57bebf78e0b2a6aa3676e36f3afabc657caaf4a71f4d851408898.gif"
+        },
+        {
+            "id": 1457295618115502176,
+            "name": "Chilli",
+            "animated": false,
+            "file": "emojis/3bbad3cb469659351ce9912623ed33a07108415937cdd3fb6a26a682bd8f97da.png"
+        },
+        {
+            "id": 1457295620661444740,
+            "name": "raio",
+            "animated": true,
+            "file": "emojis/5a2c15c87883e7b14d4c606bbe57d2bb37281bd9ac485ed4e67f1d5b146a6ec7.gif"
+        },
+        {
+            "id": 1457295623077494920,
+            "name": "srdark_d_estrela",
+            "animated": true,
+            "file": "emojis/afd1ebdc8e7b5d262c8fdbd4b9969444552eb3580b5a4e5cfebbc6e165886cd1.gif"
+        },
+        {
+            "id": 1457295859032264836,
+            "name": "a_verificado",
+            "animated": false,
+            "file": "emojis/b6ee58c9671b2ce7ad4539df5f373d1a291305724e2ec5d1e6ef477d25213702.png"
+        },
+        {
+            "id": 1457295860844200078,
+            "name": "a_warn",
+            "animated": false,
+            "file": "emojis/f929862bf1357c5c83bf6519aee61e14b8e08076fcd82ce277f01dee65c97760.png"
+        },
+        {
+            "id": 1457295862882631720,
+            "name": "vaviso",
+            "animated": false,
+            "file": "emojis/206b72181b7e1fbfeb4c86d4a5987faa7900ffd98ac1d7d0e481e19a987f5573.png"
+        },
+        {
+            "id": 1457295864765616211,
+            "name": "d_bfsword",
+            "animated": false,
+            "file": "emojis/dd1520fc46c051ae354b62f18b186e4923a04c3267b6be75cf7f66d399c4c424.png"
+        },
+        {
+            "id": 1457295870511808614,
+            "name": "Sasuke_banido",
+            "animated": true,
+            "file": "emojis/7235d7c55e760f88a816682415d12e8340eda459a80120fc69ac2762437ab6aa.gif"
+        },
+        {
+            "id": 1457295872751702027,
+            "name": "money",
+            "animated": true,
+            "file": "emojis/eb8a7af7598546e7ee48b16a26e8933e5d7658009f87d19dedb2660663cbd5e6.gif"
+        },
+        {
+            "id": 1457295875410759766,
+            "name": "Inf_sonic_run",
+            "animated": true,
+            "file": "emojis/343b38fe1cc0442d2b84b8329e1c381b9465d6390c57cd25d5c723fa25638436.gif"
+        },
+        {
+            "id": 1457300011569381427,
+            "name": "cool_gif",
+            "animated": true,
+            "file": "emojis/9d9fc0d3e69f0bcd980d3744caf77af6490e8ebd4a063d44152c39422e78b83a.gif"
+        },
+        {
+            "id": 1457300013678858262,
+            "name": "kitsune",
+            "animated": false,
+            "file": "emojis/a2733967c0d597d8fa9783322a8b5722a6bad43cc9fdb4d30658304b5f383f70.png"
+        },
+        {
+            "id": 1457300016019279944,
+            "name": "leopard",
+            "animated": false,
+            "file": "emojis/0f04589c72f08266515fbc91d531d97d0e175efcee851140d4152e7df0dc4631.png"
+        },
+        {
+            "id": 1457300018074488903,
+            "name": "trex",
+            "animated": false,
+            "file": "emojis/ad49cfee7fdba4146402b51d92f4b70613a10eba59c773ac6ab4a30c46a2c4fb.png"
+        },
+        {
+            "id": 1457300019685232753,
+            "name": "venom",
+            "animated": false,
+            "file": "emojis/4760bcd88074eed863fe3ca545969c10af6891128ed705eaf4a044ef7a29bb91.png"
+        },
+        {
+            "id": 1457300022616915968,
+            "name": "wolf",
+            "animated": false,
+            "file": "emojis/3962e2be4e4c36d4651388fbf6ec3c0e785a38703f59368adccf15d9bd11b33f.png"
+        },
+        {
+            "id": 1457300025892798628,
+            "name": "yeti",
+            "animated": false,
+            "file": "emojis/88b21156d2ef22923e80ecc7c0934be5c076e26d80e680151bfa306c710b0789.png"
+        },
+        {
+            "id": 1457300029059633385,
+            "name": "srdark_d_eng",
+            "animated": true,
+            "file": "emojis/f971306f6f239282318e480062dbf6c45aa5967feb5200edf3a505a26f17c061.gif"
+        },
+        {
+            "id": 1457300031919882281,
+            "name": "emoji_1",
+            "animated": false,
+            "file": "emojis/ce8ab0cfa2fa1a28f2415b5905a4badd47a49f1f87cba742cdec093f5c241ca6.png"
+        },
+        {
+            "id": 1457300034503573570,
+            "name": "toma",
+            "animated": true,
+            "file": "emojis/1e76c2a3c3681d63fb7c2a591941ac26d9d94d21cf6e68d47292e19158cb0455.gif"
+        },
+        {
+            "id": 1457300036089151510,
+            "name": "Dragon_Hyken",
+            "animated": false,
+            "file": "emojis/28fd243d5d46504180313370e17085dd9526e3a371e4bc73898ef753cfb0961c.png"
+        },
+        {
+            "id": 1457300037976592478,
+            "name": "DoughDough",
+            "animated": false,
+            "file": "emojis/a50d6d0f41e2c364dbc794095ef64e996b8f675db73b110fdc48d7686de40959.png"
+        },
+        {
+            "id": 1457300040052899852,
+            "name": "rumbleverde",
+            "animated": false,
+            "file": "emojis/8534062513de393c43ffb3eb9d195ceecdee41202bdd5fc769c9fa3ea56adf42.png"
+        },
+        {
+            "id": 1457300041902325866,
+            "name": "rumbleamarela",
+            "animated": false,
+            "file": "emojis/61448b7b7537432804b5618a23bca3b2a17914420aba4b64c6db786405dfeaf2.png"
+        },
+        {
+            "id": 1457300043768922126,
+            "name": "AA4_V4",
+            "animated": false,
+            "file": "emojis/6d5309025a2bbc02e2925037ad77cbf75c736ad6633ab4d0711360b4293c1241.png"
+        },
+        {
+            "id": 1457300045819936941,
+            "name": "Notificador",
+            "animated": false,
+            "file": "emojis/4d86e0243cea282e46e5ad759beb78fb49e20b75822c2a821fdf8f8b910e2279.png"
+        },
+        {
+            "id": 1457300047560446040,
+            "name": "Robux_Lord",
+            "animated": false,
+            "file": "emojis/c2397af8e1aad88ac2ad84aac783c0e509b073e550c3ac295ae4c569e5f92a84.png"
+        },
+        {
+            "id": 1457300659530371072,
+            "name": "a_noodle",
+            "animated": true,
+            "file": "emojis/5fc183f33d2d2fcda21a8c6348d30332c5dfd5b9182035f02383d7c4df9d8e62.gif"
+        },
+        {
+            "id": 1457300661401288799,
+            "name": "ControlFruit",
+            "animated": false,
+            "file": "emojis/a42ca900534c390b40fe3ad8fc7be1d2384bc4c050ab89844f2c292d0aac1fa2.png"
+        },
+        {
+            "id": 1457300663024357448,
+            "name": "DragonStorm",
+            "animated": false,
+            "file": "emojis/9dbe15b7a70add714843ce49c9f5c2f02af9599f4888b7b6940f856485737fa7.png"
+        },
+        {
+            "id": 1457300664270061672,
+            "name": "DragonHeart",
+            "animated": false,
+            "file": "emojis/c31e831d5049aa08b12bbc1d2be6203b53adf2d3e34a768006b1f1fba91edbc0.png"
+        },
+        {
+            "id": 1457300667495616699,
+            "name": "FoxLamp",
+            "animated": false,
+            "file": "emojis/891d917174af17454c975fa6e1dc7a52537a8bf4debc562924d61b1288942853.png"
+        },
+        {
+            "id": 1457300669252763749,
+            "name": "Tushita",
+            "animated": false,
+            "file": "emojis/fe813f02891beb644ca388adff66bdb1d5f05922838fe21f629540c569dc9c74.png"
+        },
+        {
+            "id": 1457300671144394832,
+            "name": "Yama",
+            "animated": false,
+            "file": "emojis/89c3580e72f2721a6d3cb80d42b6b082b3452b1185801ccc00634b72a6fa4b27.png"
+        },
+        {
+            "id": 1457300674550300704,
+            "name": "rumblefruitPurple",
+            "animated": false,
+            "file": "emojis/0e7387048bdfe2757439b02354abc1720ef197347da0a7c4b814d9496be25d77.png"
+        },
+        {
+            "id": 1457300676576018433,
+            "name": "yoru",
+            "animated": false,
+            "file": "emojis/f049a02df03df7975103e1ac2061a993d6b9d03021b64d7aaf83da69a1bbd4ae.png"
+        },
+        {
+            "id": 1457300677696028694,
+            "name": "zx_trade",
+            "animated": false,
+            "file": "emojis/a11d509a988790827ef4b2e0a28d82dfbe49795677c61a311031d0dc3c6bb065.png"
+        },
+        {
+            "id": 1457300679990448140,
+            "name": "Unk_SpikeTrident",
+            "animated": false,
+            "file": "emojis/6ed3ff0413445c110fdb011ea58c54017769c439229d53fa8c790e97b496b80d.png"
+        },
+        {
+            "id": 1457300682519609388,
+            "name": "RumblefruitGreen",
+            "animated": false,
+            "file": "emojis/b0f0c794afecf7ee5c2874fdc257fc8f9feb4bc78015a6020b687439d6b884e2.png"
+        },
+        {
+            "id": 1457471001393627207,
+            "name": "DragonStorm",
+            "animated": false,
+            "file": "emojis/9dbe15b7a70add714843ce49c9f5c2f02af9599f4888b7b6940f856485737fa7.png"
+        },
+        {
+            "id": 1457471002756775996,
+            "name": "Draco",
+            "animated": false,
+            "file": "emojis/63f97772d5df5a966b75b8c66ff02e7a88c9d31b75e901a98146f5f76fd0d9f4.png"
+        },
+        {
+            "id": 1457471004183101678,
+            "name": "Dojo_Belt_29",
+            "animated": false,
+            "file": "emojis/c39e6a5767dad167241e027b989fdc5d5ced950defcafb01f5f1358704852d37.png"
+        },
+        {
+            "id": 1457471006015885323,
+            "name": "suporte",
+            "animated": false,
+            "file": "emojis/5546e47bdf672c6ab880742e1a4e4b870e1e63c3bf3412baf8ed7653020a68f5.png"
+        },
+        {
+            "id": 1459021868747980892,
+            "name": "Membros",
+            "animated": false,
+            "file": "emojis/49fe5d16cc63e3a00e436a9d87c1eb847dd27ae18ca04414ba837a5244611482.png"
+        },
+        {
+            "id": 1459021870916440228,
+            "name": "ModeradorServer",
+            "animated": false,
+            "file": "emojis/561bd602f0e1a0e44803c3b91376e4e4550a36092f2881d47bdb85fc96584731.png"
+        },
+        {
+            "id": 1459021873370108046,
+            "name": "team",
+            "animated": false,
+            "file": "emojis/f28c1005afc14ffdda1a91ffee8197856d285eb009dd214293ba2365a8ef68b2.png"
+        },
+        {
+            "id": 1459021875694014515,
+            "name": "1_adds",
+            "animated": false,
+            "file": "emojis/20c180352759f6d9c2e3ef9cbf8e748ddcc74a096b46c73a70cbc97b1972177b.png"
+        },
+        {
+            "id": 1459021877199634476,
+            "name": "1_or",
+            "animated": false,
+            "file": "emojis/26dd9589464736cd620a3219aaea9c217d85a39268ecb2a4e8dbc9985bbce73c.png"
+        },
+        {
+            "id": 1459021879494054023,
+            "name": "1_ywNerdolakkkk",
+            "animated": true,
+            "file": "emojis/37aa4495c0ab4554b2c699ffbb7d44d58e1017da84718af4b184d0aed5c0dad5.gif"
+        },
+        {
+            "id": 1459021881561714881,
+            "name": "FogoRoxo",
+            "animated": true,
+            "file": "emojis/6f0d7c375ecc0c458c2cd689883d7c60e671b716799f6a5e9b48b317b65fb870.gif"
+        },
+        {
+            "id": 1459021882908086468,
+            "name": "dwada",
+            "animated": true,
+            "file": "emojis/a7cac42417dee41490cc0bb5772878a2c48b8a288518193c551bc2be8918d4ec.gif"
+        },
+        {
+            "id": 1459021885336588339,
+            "name": "wolf",
+            "animated": false,
+            "file": "emojis/3962e2be4e4c36d4651388fbf6ec3c0e785a38703f59368adccf15d9bd11b33f.png"
+        },
+        {
+            "id": 1459021887614095514,
+            "name": "spirit",
+            "animated": false,
+            "file": "emojis/1637d11e0e648c9e535bf5b3536c5e01990c7925a7809133f4fe16b93af0c683.png"
+        },
+        {
+            "id": 1459021889539412000,
+            "name": "amongus",
+            "animated": true,
+            "file": "emojis/9eab4e56c8ca8e629e461e782aade9f9307aa5016fc4352c3b466e454279cb7d.gif"
+        },
+        {
+            "id": 1459021891850207273,
+            "name": "aahha",
+            "animated": false,
+            "file": "emojis/d2604287701675564db4dd80633315f0fb83056e15f281f508062fe2dfffdf8f.png"
+        },
+        {
+            "id": 1459021894228639864,
+            "name": "cathihi",
+            "animated": true,
+            "file": "emojis/e40c0cb097b3c479ef5a2c9711fe39a3451646ea93040865e34c3ba9e9636894.gif"
+        },
+        {
+            "id": 1459021896166277202,
+            "name": "randola",
+            "animated": true,
+            "file": "emojis/08434891eb2915f721b3712176644accb2febf2173490bd98d84e6347829fcd9.gif"
+        },
+        {
+            "id": 1459021898259370060,
+            "name": "vipBLOXSPACE",
+            "animated": false,
+            "file": "emojis/a387eeefdcec6a7915086dfaf539e365309ee08a8cdf3369a25186df8aae8f76.png"
+        },
+        {
+            "id": 1459022707961233600,
+            "name": "Gas_Fruit",
+            "animated": false,
+            "file": "emojis/caa3c6e98712dbd53752791580a48073fff21c61c2c04bea3c0137d70099f655.png"
+        },
+        {
+            "id": 1459022710171762831,
+            "name": "Kitsune",
+            "animated": false,
+            "file": "emojis/b35a588c4583d16516cad52d3423ae29350437240d8bebb3919fc51e3f6a8dbc.png"
+        },
+        {
+            "id": 1459022712461852743,
+            "name": "dragonfruiteast",
+            "animated": false,
+            "file": "emojis/a121a839f0990ff697288ab91b43392884d16856851b8fc71503cffe84133ef8.png"
+        },
+        {
+            "id": 1459022714743292109,
+            "name": "emoji_10",
+            "animated": false,
+            "file": "emojis/76c75edaba9b57b55f98f1ffa7f1e28b45e4f7b3810dd41dab3a0a36b114225c.png"
+        },
+        {
+            "id": 1459022717515993230,
+            "name": "emoji_11",
+            "animated": false,
+            "file": "emojis/1272bf42e3c2dfc27ac53bafe458c3ca78eb33b051b1be7f62df806c59a384bc.png"
+        },
+        {
+            "id": 1459022719147446446,
+            "name": "tiger",
+            "animated": false,
+            "file": "emojis/c1c556b10e05c7f6c851f3012fa01f7834f86c0e6b1c8f2cb81ce75361fd898e.png"
+        },
+        {
+            "id": 1459053787254620201,
+            "name": "bsthumb",
+            "animated": true,
+            "file": "emojis/ef5662e3a370e982343b0aa0010c539c97639cd50d18e0248ac5faa08cec7d64.gif"
+        },
+        {
+            "id": 1459053788433223796,
+            "name": "BarcosRapidos",
+            "animated": false,
+            "file": "emojis/efaa48df808a85fed36e5f35c0daa7f4defca15777d8d231d534dec123ad3a97.png"
+        },
+        {
+            "id": 1459053789884715175,
+            "name": "1_fruit_storage_47",
+            "animated": false,
+            "file": "emojis/66f4012061baccee778e3eff1685ed12a0d5cfcd997b2c4771ce5e386f1dd1a2.png"
+        },
+        {
+            "id": 1459053791977406568,
+            "name": "1_Rumble",
+            "animated": false,
+            "file": "emojis/e60aa70eb1074c29b1dc593b1d03f133f4856a62eea59ed45e0ecd8a371ad71f.png"
+        },
+        {
+            "id": 1459053794569617489,
+            "name": "perm_fruit_50",
+            "animated": false,
+            "file": "emojis/434d0b4fc1043a4436e1c08bc5465020d0e6a9c1a4063f5592104c63b1973445.png"
+        },
+        {
+            "id": 1459053796175904789,
+            "name": "zfeliz",
+            "animated": true,
+            "file": "emojis/abb40a9004f0e4f78b18ae0d9e9f7984644ed54043f046e530693ebe3e7e107b.gif"
+        },
+        {
+            "id": 1459053797471948813,
+            "name": "ABbloxDragonPerm_SrDark",
+            "animated": false,
+            "file": "emojis/454e949594107a267a0d476881d8d269653c744a8b4dfcf11b96389430410e0d.png"
+        },
+        {
+            "id": 1459053800307294321,
+            "name": "k_kittyyipee",
+            "animated": true,
+            "file": "emojis/8658dcf9cbb3e73231764ef58ccdaa037249910de08629df879f978f6ea56847.gif"
+        },
+        {
+            "id": 1459053801615921215,
+            "name": "Mamute",
+            "animated": false,
+            "file": "emojis/80ed4c135a2f914ba8692ee156855e4d5193ebfb4ab42f0386469edff300ede6.png"
+        },
+        {
+            "id": 1459053804006670378,
+            "name": "Presente",
+            "animated": false,
+            "file": "emojis/bc85b4bec1dfa98467732a8e7b1b540de77591a2d7fba218719cd0534f0d3016.png"
+        },
+        {
+            "id": 1459053805411897406,
+            "name": "draco",
+            "animated": false,
+            "file": "emojis/b286710f9e5a4deaa2993a8a254216981a94942c8d493ff3ceb50ae798d299be.png"
+        },
+        {
+            "id": 1459053806804402221,
+            "name": "diamond_perm_clover",
+            "animated": false,
+            "file": "emojis/385faff9f35753927a794bcf1cb00cd14b8d20f181587469ac10599092b29690.png"
+        },
+        {
+            "id": 1459053809455071263,
+            "name": "DragonPerm_clover",
+            "animated": false,
+            "file": "emojis/6c66ba82fd02e3d8fb4bba3ea35ce8fa9720b13466320ee37911afd050fe4370.png"
+        },
+        {
+            "id": 1459053811803885671,
+            "name": "gas_perm_clover",
+            "animated": false,
+            "file": "emojis/1c9cbdc291e633524f13a5ce338a80424fdec6533d9d6b07a31607fce31d74b9.png"
+        },
+        {
+            "id": 1459053813657763933,
+            "name": "leopard_perm_clover",
+            "animated": false,
+            "file": "emojis/dd2c0b730541476dfca64ecfd49061cc38bc9a41f2b28011370024eef311d9b2.png"
+        },
+        {
+            "id": 1459053815776149527,
+            "name": "portal_perm_clover",
+            "animated": false,
+            "file": "emojis/101be983ff8e7789129f809298cf8127b948fe46ba00930461235b16ae2d175e.png"
+        },
+        {
+            "id": 1459053819521536011,
+            "name": "yoru_clover",
+            "animated": false,
+            "file": "emojis/a5c432dab6e309ed6af9d07e06b09b03810a4e461161f02ddcb95533d3e19439.png"
+        },
+        {
+            "id": 1459053821333471403,
+            "name": "absolutecinema",
+            "animated": false,
+            "file": "emojis/92c92bf689efa0f875c0b5732b3629f9e4fbbe5611704f945285787ae1cd637b.png"
+        },
+        {
+            "id": 1459053823002804255,
+            "name": "oroshi",
+            "animated": false,
+            "file": "emojis/45d0f221a3290f95b0e9c1a4c12284ee0e32015c5eb36d7f69631ecfd6164848.png"
+        },
+        {
+            "id": 1459053825746014248,
+            "name": "Shark_Anchor",
+            "animated": false,
+            "file": "emojis/90c003d4eacc10b699a69a9cf665d9bf4c011c9666431b3231de531b46546283.png"
+        },
+        {
+            "id": 1459054272246452310,
+            "name": "dinohod",
+            "animated": false,
+            "file": "emojis/86d59fa5fadbcc2307aa98489d6861f99538716676489520e8038d55f27519ec.png"
+        },
+        {
+            "id": 1459054274398126275,
+            "name": "escudolevi",
+            "animated": false,
+            "file": "emojis/914713a076542d8ce8ce0c915c0c551cb9bcc553a17de70217956d616bd6edca.png"
+        },
+        {
+            "id": 1459054275794698322,
+            "name": "yoru",
+            "animated": false,
+            "file": "emojis/f049a02df03df7975103e1ac2061a993d6b9d03021b64d7aaf83da69a1bbd4ae.png"
+        },
+        {
+            "id": 1459054277220630682,
+            "name": "nice",
+            "animated": false,
+            "file": "emojis/d506bbb0135c38e5ae79798f9b41dd8b8aaa5ce7e97a61fc37f08d53966179fe.png"
+        },
+        {
+            "id": 1459054279141884047,
+            "name": "random",
+            "animated": false,
+            "file": "emojis/77c1901643fe715dcda7e59a68e079ffe4e15e2e3f1d6e0dda35c63875b68b4e.png"
+        },
+        {
+            "id": 1459054281339568301,
+            "name": "r_kirby4blakk",
+            "animated": true,
+            "file": "emojis/39a45cd22ee33ffa58ddeef599876bf4169e1dc6a44e3f532f2e2350106926be.gif"
+        },
+        {
+            "id": 1459243072142573835,
+            "name": "za_6sanguine_art",
+            "animated": false,
+            "file": "emojis/1ae561873fd6684d927963adb9ac6be992d29bdeb3356ab40a50852ea7962723.png"
+        },
+        {
+            "id": 1459243073543602438,
+            "name": "zx_trade_boa",
+            "animated": false,
+            "file": "emojis/7ca7f033f4bea284a1c156a1ebb231a852df1987878d93db7e5c3ce3523128fa.png"
+        },
+        {
+            "id": 1459243075414130961,
+            "name": "zx_trade_ruim",
+            "animated": false,
+            "file": "emojis/85b9267434d08fc6989af49b76e666aefc66d8dcc1a2057d07698c811b3fc98a.png"
+        },
+        {
+            "id": 1459243076517105857,
+            "name": "zx_draco_v4",
+            "animated": false,
+            "file": "emojis/54168c0676e09dac7b6b43f3a2c901e04586274b20a121117577cb27e37e5f78.png"
+        },
+        {
+            "id": 1459243078459326679,
+            "name": "zx_v4ghoul",
+            "animated": false,
+            "file": "emojis/10902e9ffcae587b0ccba8f3eb23d44e654c6a86dcdebef70ab4f8b3b19d5f68.png"
+        },
+        {
+            "id": 1459243079935459340,
+            "name": "zx_v4human",
+            "animated": false,
+            "file": "emojis/bc7a10f3c73e0aa0148f14181c4b485849a8cd4a232d98f27a23647ca24fceb5.png"
+        },
+        {
+            "id": 1459243081714110681,
+            "name": "zx_v4mink",
+            "animated": false,
+            "file": "emojis/afb15432bd26f21357b7efc4634a8971e0d507708f783b88448464a58eacbba1.png"
+        },
+        {
+            "id": 1459243083475451925,
+            "name": "zx_v4cyborg",
+            "animated": false,
+            "file": "emojis/0d9998040c645135bf7695df260e58bd304b90bc25741ff2755da22a4ccce2fe.png"
+        }
+    ],
+    "stickers": [
+        {
+            "id": 1414264010651603004,
+            "name": "medo",
+            "format": "StickerFormatType.png",
+            "file": "stickers/f067bd1b0c495a203e38a041a7a735be691d98a4e9e4d63544436c677edcfde9.png"
+        }
+    ],
+    "messages": {}
+}

@@ -1,0 +1,14 @@
+./disnake-2.11.0a81+geba3b43f-py3-none-any.whl
+py-discord-html-transcripts
+pymongo
+dnspython
+requests
+pytz
+aiohttp
+websockets>=12.0
+python-socketio>=5.11.0
+PyJWT>=2.8.0
+matplotlib
+psutil
+PyNaCl
+Pillow

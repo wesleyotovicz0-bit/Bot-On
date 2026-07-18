@@ -1,0 +1,104 @@
+{
+    "pagamentos": {
+        "acess_token": "",
+        "tempo": 10,
+        "sistema": "OFF",
+        "blockbank": [
+            "inter",
+            "picpay"
+        ],
+        "semiauto": {
+            "chave": "davirpinacio@gmail.com",
+            "tipo": "email",
+            "qrcode": ""
+        },
+        "sistema_semiauto": "ON",
+        "sistema_auto": "OFF",
+        "acess_token_tipo": "maior",
+        "sistema_efi": "OFF",
+        "certificado": "",
+        "secret_id": "",
+        "chavepix": "936ec5ed-819e-4d4a-aa03-3a8bb53a962c",
+        "secret_token": "",
+        "efiblocks": []
+    },
+    "sugest": {
+        "certo": "✅",
+        "errado": "❌",
+        "sistema": "OFF",
+        "channel": ""
+    },
+    "color": "#2a2d31",
+    "autolock": {
+        "hr1": "00:00",
+        "hr2": "13:00",
+        "sistema": "ON",
+        "canais": [
+            "1359612105359233188"
+        ]
+    },
+    "autorepost": {
+        "hr": "01:43",
+        "sistema": "OFF"
+    },
+    "automsg": {
+        "sistema": "ON",
+        "canais": [
+            {
+                "id": "1359612104713441350",
+                "tempo": "60",
+                "msg": "⭐  |**  NÃO FIQUE SEI DEIXA SEU FEEDBACK.**",
+                "time": 36,
+                "idmsg": "1359648872145621255"
+            }
+        ]
+    },
+    "canais": {
+        "feedback": "1359612104713441350",
+        "vendas_public": "1359612103282921693",
+        "vendas_privado": "1359612092637778034",
+        "cargo_cliente": "1358519847583223868",
+        "cargo_staff": "1356758845065527356",
+        "sistema_carrinho": "ON"
+    },
+    "nmr1": 0,
+    "nmr2": 15,
+    "autorole": {
+        "sistema": "ON",
+        "cargos": [
+            "1356759253280362516"
+        ]
+    },
+    "hierarquia": {
+        "tirarcargo": "ON",
+        "sistema": "OFF",
+        "cargos": []
+    },
+    "boasvindas": {
+        "sistema": "ON",
+        "msg": "",
+        "canal": ""
+    },
+    "auth": {
+        "secret": "",
+        "clientid": "",
+        "redirect": "",
+        "url": "",
+        "role": "",
+        "webhooks": {},
+        "req": "ON"
+    },
+    "logs": {
+        "entrada": {
+            "entrou": "1359612095175459020",
+            "saiu": "1359612095175459020"
+        }
+    },
+    "esales": {
+        "secret_id": "Client_Id_2de8f64c93f49d3a78063e5bb847ecbd734e52d4",
+        "secret_token": "Client_Secret_183eb3ed01c6a0e4ffa7a49da32a6cac3dbb508e",
+        "certificado": "zendCert",
+        "chavepix": "936ec5ed-819e-4d4a-aa03-3a8bb53a962c"
+    },
+    "blockerFrases": {}
+}

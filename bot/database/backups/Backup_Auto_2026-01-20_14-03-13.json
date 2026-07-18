@@ -1,0 +1,2195 @@
+{
+    "guild": {
+        "id": 1400915259061047316,
+        "nome": "JL STORE 👑 | #50",
+        "icon_url": "https://cdn.discordapp.com/icons/1400915259061047316/f4c346af37fe24a333af940a97e5e270.png?size=1024",
+        "banner_url": null
+    },
+    "roles": [
+        {
+            "id": 1400915259061047316,
+            "name": "@everyone",
+            "color": 0,
+            "position": 0
+        },
+        {
+            "id": 1462889708265668869,
+            "name": "Teste",
+            "color": 0,
+            "position": 1
+        },
+        {
+            "id": 1403927046039535616,
+            "name": "Verificado 💙👑",
+            "color": 511,
+            "position": 1
+        },
+        {
+            "id": 1403423487976149035,
+            "name": "JL STORE | PAYMENTS",
+            "color": 0,
+            "position": 3
+        },
+        {
+            "id": 1402083304768933891,
+            "name": "Invite Tracker",
+            "color": 0,
+            "position": 4
+        },
+        {
+            "id": 1402056049116053636,
+            "name": "Resp Parcerias",
+            "color": 16711680,
+            "position": 5
+        },
+        {
+            "id": 1401593434757664791,
+            "name": "JL | CLONNER",
+            "color": 0,
+            "position": 7
+        },
+        {
+            "id": 1401221883160166442,
+            "name": ".",
+            "color": 0,
+            "position": 8
+        },
+        {
+            "id": 1401212254229102633,
+            "name": "Acess clonner 👑",
+            "color": 262399,
+            "position": 9
+        },
+        {
+            "id": 1401011543889416427,
+            "name": "JL | BOT",
+            "color": 0,
+            "position": 10
+        },
+        {
+            "id": 1400915259061047317,
+            "name": "Carl-bot",
+            "color": 0,
+            "position": 11
+        },
+        {
+            "id": 1400915259061047318,
+            "name": "Cristal Vendas",
+            "color": 0,
+            "position": 12
+        },
+        {
+            "id": 1400915259061047319,
+            "name": "⠀⠀⠀backup",
+            "color": 0,
+            "position": 13
+        },
+        {
+            "id": 1400915259061047320,
+            "name": "Team",
+            "color": 3447003,
+            "position": 14
+        },
+        {
+            "id": 1400915259061047321,
+            "name": "⠀⠀⠀member",
+            "color": 58367,
+            "position": 15
+        },
+        {
+            "id": 1400915259061047322,
+            "name": "⠀⠀⠀client",
+            "color": 16352305,
+            "position": 16
+        },
+        {
+            "id": 1400915259061047324,
+            "name": "Partners",
+            "color": 15105570,
+            "position": 17
+        },
+        {
+            "id": 1400915259061047325,
+            "name": "Client",
+            "color": 1791,
+            "position": 18
+        },
+        {
+            "id": 1400915259082014751,
+            "name": "💎",
+            "color": 3447003,
+            "position": 19
+        },
+        {
+            "id": 1400915259082014752,
+            "name": "👑",
+            "color": 1185561,
+            "position": 20
+        },
+        {
+            "id": 1400915259082014753,
+            "name": "Manager",
+            "color": 16760320,
+            "position": 21
+        },
+        {
+            "id": 1400915259082014754,
+            "name": "⠀⠀⠀boost",
+            "color": 14970111,
+            "position": 22
+        },
+        {
+            "id": 1400915259082014755,
+            "name": "@everyone",
+            "color": 0,
+            "position": 23
+        },
+        {
+            "id": 1407159986488086670,
+            "name": "carl-bot",
+            "color": 0,
+            "position": 24
+        },
+        {
+            "id": 1407159986425041078,
+            "name": "carl-bot",
+            "color": 0,
+            "position": 25
+        }
+    ],
+    "categories": [
+        {
+            "id": 1400915259870679194,
+            "name": "@ Principal",
+            "position": 0,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1400915259870679198,
+            "name": "@ Entregas",
+            "position": 1,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1400915259870679201,
+            "name": "@ Discord",
+            "position": 2,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1400915260126400638,
+            "name": "@ Geral",
+            "position": 3,
+            "overwrites": {}
+        },
+        {
+            "id": 1400952302356926496,
+            "name": "📺┃STREAMINGS",
+            "position": 4,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1401950938159120404,
+            "name": "🤖 |  bots Sources",
+            "position": 5,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1049600,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1401761072876224513,
+            "name": "🏦┃B4nks",
+            "position": 6,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1401689625596006592,
+            "name": "📦┃M3thod0s",
+            "position": 7,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1400915260348694638,
+            "name": "@ Loja",
+            "position": 8,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1400915260348694643,
+            "name": "@ Mistery",
+            "position": 9,
+            "overwrites": {}
+        },
+        {
+            "id": 1401673768442662982,
+            "name": "💬┃Interação",
+            "position": 10,
+            "overwrites": {}
+        },
+        {
+            "id": 1400915260348694647,
+            "name": "@ Partners",
+            "position": 11,
+            "overwrites": {}
+        },
+        {
+            "id": 1400915260621459517,
+            "name": "@ LOGS",
+            "position": 12,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1462516467290476587,
+            "name": "Logs",
+            "position": 13,
+            "overwrites": {}
+        }
+    ],
+    "channels": [
+        {
+            "id": 1462516504028385407,
+            "name": "logs-de-cargos-excluidos",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 65,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516500798898369,
+            "name": "logs-de-cargos-removidos",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 63,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1403930605468782612,
+            "name": "🚀┃backup",
+            "type": "text",
+            "category_id": null,
+            "position": 46,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                },
+                "1403927046039535616": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1401689970850136195,
+            "name": "📦┃m3t0d0-ifood",
+            "type": "text",
+            "category_id": 1401689625596006592,
+            "position": 23,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1400915259870679199,
+            "name": "📩┃atendimento",
+            "type": "text",
+            "category_id": 1400915259870679198,
+            "position": 3,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1400915260126400637,
+            "name": "🚀┃at1v4ção",
+            "type": "text",
+            "category_id": 1400915259870679201,
+            "position": 10,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1401005070614528160,
+            "name": "💎・logs-entradas",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 40,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1401703540610699335,
+            "name": "💎・banners",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 43,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                },
+                "1401221883160166442": {
+                    "allow": 3072,
+                    "deny": 377957253120
+                }
+            }
+        },
+        {
+            "id": 1401946138365657169,
+            "name": "🏦┃p1cp4y-f4k3",
+            "type": "text",
+            "category_id": 1401761072876224513,
+            "position": 20,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1401015837497753712,
+            "name": "🧡┃crunchyroll",
+            "type": "text",
+            "category_id": 1400952302356926496,
+            "position": 14,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1400915260621459516,
+            "name": "📜┃req-parceria",
+            "type": "text",
+            "category_id": 1400915260348694647,
+            "position": 32,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1462516495572668538,
+            "name": "logs-de-expulsoes",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 60,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1407161124981313537,
+            "name": "b",
+            "type": "text",
+            "category_id": null,
+            "position": 47,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1401689907436720351,
+            "name": "📦┃spotify-fake",
+            "type": "text",
+            "category_id": 1401689625596006592,
+            "position": 22,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1402037910135505027,
+            "name": "🤖┃b0t-d3-t1ck3t",
+            "type": "text",
+            "category_id": 1401950938159120404,
+            "position": 44,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1049600,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1401016290638037213,
+            "name": "💜┃hbo-max",
+            "type": "text",
+            "category_id": 1400952302356926496,
+            "position": 16,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1401221443395518534,
+            "name": "💎・chatzinhu",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 42,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                },
+                "1401221883160166442": {
+                    "allow": 3072,
+                    "deny": 377957253120
+                }
+            }
+        },
+        {
+            "id": 1400915260348694640,
+            "name": "🛒┃p4cks",
+            "type": "text",
+            "category_id": 1400915260348694638,
+            "position": 26,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1462516507602063422,
+            "name": "logs-de-canais-criados",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 67,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516469710590118,
+            "name": "logs-do-sistema",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 49,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1401211778204958924,
+            "name": "💎・logs-clonner",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 41,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1401953350135844948,
+            "name": "🤖┃b0t-pr3m1um",
+            "type": "text",
+            "category_id": 1401950938159120404,
+            "position": 18,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1049600,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1462516509732634840,
+            "name": "logs-de-canais-excluidos",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 68,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1401951178690134280,
+            "name": "🤖┃al1en-v6-v1p",
+            "type": "text",
+            "category_id": 1401950938159120404,
+            "position": 17,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1049600,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1401946238923964588,
+            "name": "🏦┃1nt3r-f4k3",
+            "type": "text",
+            "category_id": 1401761072876224513,
+            "position": 21,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1400915260126400636,
+            "name": "🚀┃c0nt4-v1rg3m",
+            "type": "text",
+            "category_id": 1400915259870679201,
+            "position": 9,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1462516499041226795,
+            "name": "logs-de-cargos-adicionados",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 62,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1401015686041698536,
+            "name": "❤┃n3tflix",
+            "type": "text",
+            "category_id": 1400952302356926496,
+            "position": 13,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1462516485292429516,
+            "name": "logs-de-anti-falso",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 58,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516472533352704,
+            "name": "logs-de-saidas",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 51,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516502321434887,
+            "name": "logs-de-cargos-criados",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 64,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516478267097109,
+            "name": "logs-de-pedidos",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 54,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1400915260126400635,
+            "name": "🚀┃c0nta-nitrada",
+            "type": "text",
+            "category_id": 1400915259870679201,
+            "position": 8,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079233536
+                }
+            }
+        },
+        {
+            "id": 1400915260348694642,
+            "name": "🛒┃l0j4-f3it4",
+            "type": "text",
+            "category_id": 1400915260348694638,
+            "position": 28,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1462516479789498605,
+            "name": "feedback",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 55,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1400915259870679195,
+            "name": "📚┃termos",
+            "type": "text",
+            "category_id": 1400915259870679194,
+            "position": 0,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1400915261086896272,
+            "name": "💎・logs-saida",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 38,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1401005272616407061,
+            "name": "💙┃feedbacks",
+            "type": "text",
+            "category_id": 1400915259870679198,
+            "position": 5,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1400915260348694639,
+            "name": "🎨┃p4ck-design",
+            "type": "text",
+            "category_id": 1400915260348694638,
+            "position": 25,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1400915261086896273,
+            "name": "💎・logs-discord",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 39,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1401016886438924310,
+            "name": "🎭┃fake-decoração",
+            "type": "text",
+            "category_id": 1400915260126400638,
+            "position": 11,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 377957125120
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079233536
+                }
+            }
+        },
+        {
+            "id": 1462516493374849336,
+            "name": "logs-de-banimentos",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 59,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516497380409428,
+            "name": "logs-de-castigos",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 61,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1401674911835095162,
+            "name": "💬┃chat",
+            "type": "text",
+            "category_id": 1401673768442662982,
+            "position": 30,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1400915260348694645,
+            "name": "🎲┃caixa-pix",
+            "type": "text",
+            "category_id": 1400915260348694643,
+            "position": 29,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 377957125120
+                },
+                "1403927046039535616": {
+                    "allow": 0,
+                    "deny": 103079218176
+                }
+            }
+        },
+        {
+            "id": 1402055410411765793,
+            "name": "💌┃parcerias",
+            "type": "text",
+            "category_id": 1400915260348694647,
+            "position": 45,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 377957124096
+                },
+                "1402056049116053636": {
+                    "allow": 2048,
+                    "deny": 103079346176
+                }
+            }
+        },
+        {
+            "id": 1400915260348694641,
+            "name": "🛒┃cl0nn3r",
+            "type": "text",
+            "category_id": 1400915260348694638,
+            "position": 27,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1462516481182138623,
+            "name": "logs-de-tickets",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 56,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1400915261086896271,
+            "name": "💎・logs-ticket",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 37,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1401015968267898941,
+            "name": "🩵┃d1sney",
+            "type": "text",
+            "category_id": 1400952302356926496,
+            "position": 15,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1400915260126400639,
+            "name": "💚┃sp0tify",
+            "type": "text",
+            "category_id": 1400952302356926496,
+            "position": 12,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1462516482679504988,
+            "name": "logs-de-comandos",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 57,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1400915259870679196,
+            "name": "📢┃anúncios",
+            "type": "text",
+            "category_id": 1400915259870679194,
+            "position": 1,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1400915259870679200,
+            "name": "🛒┃buys",
+            "type": "text",
+            "category_id": 1400915259870679198,
+            "position": 4,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1462516476668940534,
+            "name": "logs-de-trafego-em-call",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 53,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516474873774081,
+            "name": "logs-de-mensagens",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 52,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1400915259870679197,
+            "name": "🎁┃presentes",
+            "type": "text",
+            "category_id": 1400915259870679194,
+            "position": 2,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1400915260621459520,
+            "name": "💎・logs-adm",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 35,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1400915260621459518,
+            "name": "💎・cmd",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 33,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1401673348320202894,
+            "name": "🔧┃comandos",
+            "type": "text",
+            "category_id": 1401673768442662982,
+            "position": 31,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 377957125120
+                },
+                "1401212254229102633": {
+                    "allow": 1024,
+                    "deny": 377957124096
+                }
+            }
+        },
+        {
+            "id": 1400915260126400634,
+            "name": "🚀┃n1tr0",
+            "type": "text",
+            "category_id": 1400915259870679201,
+            "position": 7,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1462516510928015403,
+            "name": "logs-de-canais-editados",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 69,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516505370562645,
+            "name": "logs-de-cargos-editados",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 66,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516515109601505,
+            "name": "logs-de-permissoes-removidas",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 71,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516471245705533,
+            "name": "logs-de-entradas",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 50,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1400915260621459519,
+            "name": "💎・logs-verify",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 34,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1462516513499119648,
+            "name": "logs-de-permissoes-adicionadas",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 70,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1462516468301299877,
+            "name": "boas-vindas",
+            "type": "text",
+            "category_id": 1462516467290476587,
+            "position": 48,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1400915260621459521,
+            "name": "💎・logs-sistema",
+            "type": "text",
+            "category_id": 1400915260621459517,
+            "position": 36,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1400915259082014752": {
+                    "allow": 377957174336,
+                    "deny": 0
+                },
+                "1400915259082014753": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1400915260126400633,
+            "name": "🚀┃n1tr0-g1ft",
+            "type": "text",
+            "category_id": 1400915259870679201,
+            "position": 6,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        },
+        {
+            "id": 1401690792023556146,
+            "name": "📦┃m3t0d0-netflix",
+            "type": "text",
+            "category_id": 1401689625596006592,
+            "position": 24,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1401765390224330864,
+            "name": "🏦┃n0b4nk-f4k3",
+            "type": "text",
+            "category_id": 1401761072876224513,
+            "position": 19,
+            "overwrites": {
+                "1400915259061047316": {
+                    "allow": 0,
+                    "deny": 1024
+                },
+                "1403927046039535616": {
+                    "allow": 1024,
+                    "deny": 103079217152
+                }
+            }
+        }
+    ],
+    "members": [
+        {
+            "id": 1462888539195969703,
+            "roles": [
+                1462889708265668869
+            ]
+        },
+        {
+            "id": 897863329874341919,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1400661570836758599,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1399237415528300636,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1394116025418776616,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1340000062046208074,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 429006993936875532,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1114014183189647390,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1341601257504112660,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1066348508132683796,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 235148962103951360,
+            "roles": [
+                1407159986488086670,
+                1407159986425041078
+            ]
+        },
+        {
+            "id": 1205841681149329479,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1182872354917982271,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1376732978281189586,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1360402809761173695,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1261889648041656341,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1380925608350978150,
+            "roles": [
+                1403927046039535616,
+                1401212254229102633,
+                1400915259061047325,
+                1400915259082014752
+            ]
+        },
+        {
+            "id": 1450369941831159900,
+            "roles": []
+        },
+        {
+            "id": 1401592334533001347,
+            "roles": [
+                1401593434757664791,
+                1400915259061047321,
+                1400915259082014753
+            ]
+        },
+        {
+            "id": 1176577972837294122,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1327288653432619139,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 395935743953862657,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 952599160144683120,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 888837216166633543,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1399239849768390688,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1380448618426662972,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1397661500184854558,
+            "roles": []
+        },
+        {
+            "id": 1225456769933906033,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1400365625225904158,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1400440627501727849,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1399528721375035433,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1167848205657051157,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1377036758692135063,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 755242116908580997,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1400916574701092967,
+            "roles": [
+                1402056049116053636,
+                1401212254229102633,
+                1400915259061047321,
+                1400915259061047325
+            ]
+        },
+        {
+            "id": 1408963500994461799,
+            "roles": []
+        },
+        {
+            "id": 1401419504319332422,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1306796701092417596,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1329461749921087543,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1399530403122909235,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1207458935900995696,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1401882812214149121,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1387210793333952553,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1401857565574303875,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1392551214796902503,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1348069146398691348,
+            "roles": []
+        },
+        {
+            "id": 1398521794096402522,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1238608664831594588,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1050847485339389972,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 857946187512283146,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1399577788972929044,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1197924625615695965,
+            "roles": []
+        },
+        {
+            "id": 1385380140753879185,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1258251144250261630,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1399606778819383327,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1160387882754777098,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1401010085307744456,
+            "roles": [
+                1401011543889416427,
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1400998369186414662,
+            "roles": [
+                1403423487976149035,
+                1400915259082014752
+            ]
+        },
+        {
+            "id": 826919208313946182,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 571425423632629770,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1273508300490801203,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 720351927581278219,
+            "roles": [
+                1402083304768933891,
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1401961970177019964,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1387905213507178648,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 559769982121279509,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1282125725079572571,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1046398105064591420,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1396503314241290259,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1295852090383667220,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 945918010609250334,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1040329965494882424,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1401693945540378625,
+            "roles": [
+                1400915259061047321
+            ]
+        },
+        {
+            "id": 1340468184666345503,
+            "roles": [
+                1400915259061047321
+            ]
+        }
+    ],
+    "emojis": [
+        {
+            "id": 1401274985288306729,
+            "name": "Nitro",
+            "animated": true,
+            "file": "emojis/4614f976702bf973bb6911db73b5590ac0ffcd12773ca90106017a3e74e4e303.gif"
+        },
+        {
+            "id": 1401274987339579534,
+            "name": "staff",
+            "animated": false,
+            "file": "emojis/3f5b558c30299e7448de82524167d41879db507b6018ca4f0216f3c6f9903ffc.png"
+        },
+        {
+            "id": 1401274989067374673,
+            "name": "tiktok",
+            "animated": false,
+            "file": "emojis/5d3bf4e5a34c20a28a08e521b7c207cefddf41da232c2c2ee7fa9b695c3e6a91.png"
+        },
+        {
+            "id": 1401274990501953678,
+            "name": "Pix",
+            "animated": false,
+            "file": "emojis/98a1dee3dcde578267b9c80de2809efdd0164c8560197411553e8c4dbba3025e.png"
+        },
+        {
+            "id": 1401274992057913424,
+            "name": "Suporte",
+            "animated": true,
+            "file": "emojis/bb6b6662fa158f5d6684fe8941e9df6cc07730dc69621803ef7d7c0d6a8d4852.gif"
+        },
+        {
+            "id": 1401274993651879967,
+            "name": "4x_StorM",
+            "animated": false,
+            "file": "emojis/2ceb9dbf53b2ca9a9cf61904697377e01f82f5acb0b7072de336fbb5a14be752.png"
+        },
+        {
+            "id": 1401274995673403614,
+            "name": "bx",
+            "animated": false,
+            "file": "emojis/f768ce11f9b55ec618e3a706249bc1b8f7f97a9e75f9e9061f0048803b14f1fd.png"
+        },
+        {
+            "id": 1401274997070237779,
+            "name": "notify_branco",
+            "animated": false,
+            "file": "emojis/35b62d29266744ee948c4da55edcdc85453464409f497135bb00bd80c8f7842c.png"
+        },
+        {
+            "id": 1401274998949285971,
+            "name": "instalogo",
+            "animated": false,
+            "file": "emojis/cbb026de6e5b101186976255d38c51ef80d5ca17a2d17917835e9211f45d5736.png"
+        },
+        {
+            "id": 1401275000945774654,
+            "name": "booster",
+            "animated": false,
+            "file": "emojis/a48a09ae73347507dbc31954af791a9cfa1027e32eed99423c1895ce74a9ca09.png"
+        },
+        {
+            "id": 1401275002602389745,
+            "name": "xx",
+            "animated": false,
+            "file": "emojis/2ceb9dbf53b2ca9a9cf61904697377e01f82f5acb0b7072de336fbb5a14be752.png"
+        },
+        {
+            "id": 1401275004712390819,
+            "name": "Badge_Nitro",
+            "animated": false,
+            "file": "emojis/be5de031a83f20c4c85e7f93d4c85531d255fc9abc133362790530b22985e8bf.png"
+        },
+        {
+            "id": 1401275007039963276,
+            "name": "present",
+            "animated": true,
+            "file": "emojis/32ca8ce0004ad7446155fc5fc9f92c4077b7c76807e3db4c3d2975d97c579fda.gif"
+        },
+        {
+            "id": 1401275008738922528,
+            "name": "config",
+            "animated": false,
+            "file": "emojis/99b9bcd9b2a4088f299ce272cbb8e727fbbb667cc306e732eda37576e5c66585.png"
+        },
+        {
+            "id": 1401275010974486649,
+            "name": "nitrobasic",
+            "animated": true,
+            "file": "emojis/1e72689e332719ba42a5674e3e311fb7693861d62a62ea872c1ecd696d79bb5b.gif"
+        },
+        {
+            "id": 1401275012710797454,
+            "name": "parceiro",
+            "animated": false,
+            "file": "emojis/967b2980b8223a65d378643890b4fa959829d1cf48945419cb1c70c80eb1ddbc.png"
+        },
+        {
+            "id": 1401275014246039563,
+            "name": "carrinho",
+            "animated": false,
+            "file": "emojis/3aa7246aad390648a65878b919901b88762b00b88fe5fcf8ef444c7369a0c089.png"
+        },
+        {
+            "id": 1401275015890075818,
+            "name": "moneyy",
+            "animated": false,
+            "file": "emojis/aafb9de717d68772b73b5b7bc0e6b2cf035e7fbb07d49ef87ac7cc66e31296f5.png"
+        },
+        {
+            "id": 1401275017592967319,
+            "name": "eb1",
+            "animated": false,
+            "file": "emojis/cabb3a6cc098f5f61fbc19211fbba48075a2ab22f7e4892b8f9afb08c6b9a18f.png"
+        },
+        {
+            "id": 1401275019111305238,
+            "name": "Ticket",
+            "animated": false,
+            "file": "emojis/c3b2713b48fa6eaaf35d5a2a571b30572814c6c139f49f4567a36d0e3aedde26.png"
+        },
+        {
+            "id": 1401275020998611107,
+            "name": "loading",
+            "animated": true,
+            "file": "emojis/237e3feb37a85cbc24bb8f6e8397adf4c4e264834e25e22222f766d9c6b56c79.gif"
+        },
+        {
+            "id": 1401275022701498409,
+            "name": "imp_pix",
+            "animated": false,
+            "file": "emojis/4036c29b58ca9d738622c3432a874ac3d09083b65320211070344429b2d8919a.png"
+        },
+        {
+            "id": 1401275024341471343,
+            "name": "Robux",
+            "animated": false,
+            "file": "emojis/403a29b4ec2938d6a2f8a36d70b756f07459fd8554ee7cf45fd8111b6e6b21fe.png"
+        },
+        {
+            "id": 1401275025792827443,
+            "name": "sla",
+            "animated": false,
+            "file": "emojis/385c138dd1372a4085f535176c41cda3cf015d3e4a0401d7f5584138a57adcf3.png"
+        },
+        {
+            "id": 1401275028187910236,
+            "name": "parceria",
+            "animated": false,
+            "file": "emojis/7a09b5af6b32f051608fdc53ff5c705bc7cde4a4f96f16fb17a4a436f7aa8431.png"
+        },
+        {
+            "id": 1401275029798260736,
+            "name": "nu",
+            "animated": false,
+            "file": "emojis/b47bdcd4bfa259ac3f5b4d795972539ca038d05a78f592fa6eddb2ead9a3ef67.png"
+        },
+        {
+            "id": 1401275031752937472,
+            "name": "suporte11",
+            "animated": false,
+            "file": "emojis/6ab3a276ec2cdd41a1af1cb4954438baf1c980ce09949a074bd596ea8ece9114.png"
+        },
+        {
+            "id": 1401275033279795321,
+            "name": "Nitro_Pink",
+            "animated": false,
+            "file": "emojis/e8b81500adca52818867f596865dcc5001b9e829271735d3cad55f9b0afa4083.png"
+        },
+        {
+            "id": 1401275035100123176,
+            "name": "b_pontobranco_voltz",
+            "animated": false,
+            "file": "emojis/cabbd058e7c634dce358f36ad2fafc031ebbbaddfabd8a60f5766b530c67ebaf.png"
+        },
+        {
+            "id": 1401275037041823815,
+            "name": "warn",
+            "animated": true,
+            "file": "emojis/d372e3a28f7035f2645b335e3b47416e55a29a7c70158ff9827a7595366a46a3.gif"
+        },
+        {
+            "id": 1401275038774071478,
+            "name": "Cliente",
+            "animated": false,
+            "file": "emojis/e8e28714b6bc01ac932fb3a446e6ef6ceb7bf6f0b008259c73edb266e46b0646.png"
+        },
+        {
+            "id": 1401275040363708436,
+            "name": "Wumpus_Coin",
+            "animated": false,
+            "file": "emojis/13d01cec6a5d509e59c95fc4486b22a6f20bf562a2bb31231d1e271e5bb06ac9.png"
+        },
+        {
+            "id": 1401275041873657986,
+            "name": "manager",
+            "animated": false,
+            "file": "emojis/37c9f41a1d8961bfe85274ccab0ac4d0cf62539376833c43cce3551b396dd379.png"
+        },
+        {
+            "id": 1401275043518091366,
+            "name": "emoji_56",
+            "animated": false,
+            "file": "emojis/7fa297146b970a4587d4a2f4082cb0be3249179dfd7f10930cb0093a64c94bcd.png"
+        },
+        {
+            "id": 1401275045493608459,
+            "name": "emoji_51",
+            "animated": false,
+            "file": "emojis/33cf1d7ba5b7a5fc5feb2a16c2ec475dbe7b57e693f4316818526eb3e1097666.png"
+        },
+        {
+            "id": 1401275046856495240,
+            "name": "netflix",
+            "animated": true,
+            "file": "emojis/44d6678c56fe566d537d482183f3d88de5c728010f1e97ca624a8551bb31183b.gif"
+        },
+        {
+            "id": 1401275048760971437,
+            "name": "QRCODE",
+            "animated": false,
+            "file": "emojis/ec15aa3d3d24924f9d5f9cf4772de575e906f8dd15f09becaeb877cff62bd4b5.png"
+        },
+        {
+            "id": 1401698033074180227,
+            "name": "Spotify",
+            "animated": false,
+            "file": "emojis/6b744ee7d06f1387fd4e3706b7c8a217b2d27977441a69833e2ea58e786f6630.png"
+        },
+        {
+            "id": 1401720826780319794,
+            "name": "N3tflix",
+            "animated": false,
+            "file": "emojis/69e02157f028f577ee8c51b262d48a011262537a2a1232c687ca6d789087caab.png"
+        },
+        {
+            "id": 1401738419130077234,
+            "name": "agzha",
+            "animated": false,
+            "file": "emojis/b53ac5b879ec52bf5bb485e386ef2629b41950c9b3bccf102303a16922762999.png"
+        },
+        {
+            "id": 1401743954063659098,
+            "name": "Crunchyroll",
+            "animated": false,
+            "file": "emojis/a685005bca6871fdc43a2bab1eb949fbfc2d2a3204df484c204dbf171dc600bc.png"
+        },
+        {
+            "id": 1401747175045861494,
+            "name": "d1sn3y",
+            "animated": false,
+            "file": "emojis/1cb916261946d5f487169fda8a5820c7ce9dd807446874c0ffec357e9bbb0185.png"
+        },
+        {
+            "id": 1401749989042032740,
+            "name": "Hb0M4x",
+            "animated": false,
+            "file": "emojis/ed1e0573103a80775cf946281659c67f7fc53143e22b5ad486bda30beb4a00a0.png"
+        },
+        {
+            "id": 1401983501280084108,
+            "name": "carreg4nd0",
+            "animated": true,
+            "file": "emojis/fd4182b56a65d3be17dfbc88b44adcce5d3ea2e4f0a44ddc85db2969496852bb.gif"
+        }
+    ],
+    "stickers": [],
+    "messages": {}
+}

@@ -1,0 +1,25 @@
+{
+    "iebnGjwZKI": {
+        "name": "Teste",
+        "mode": "real",
+        "author_id": 1380925608350978150,
+        "created_at": 1767588960,
+        "message_style": "container",
+        "container": {
+            "content": "Hshwiwiwiwiwiieieieiiqjwji2o2i2i2i2i2kkwkwkwkwkwkwkwkkwkkkkkkkkkk",
+            "image_url": "https://cdn.discordapp.com/attachments/1457590523144442048/1457598577940500584/Screenshot_2026-01-05-01-05-01-199_com.android.chrome.png?ex=695c95f5&is=695b4475&hm=5e5b90ca78a4182b4eab02f5b9a5b92e423cf04b45a7ffb8110ffd6805515b7d&",
+            "color": "#FF0000"
+        },
+        "button": {
+            "label": "Participar",
+            "emoji": "🎉",
+            "style": "green"
+        }
+    },
+    "DYfgSUYlYt": {
+        "name": "sorteio",
+        "mode": "real",
+        "author_id": 1034774026926702593,
+        "created_at": 1769230087
+    }
+}

@@ -1,0 +1,1082 @@
+{
+    "guild": {
+        "id": 1427460351816892418,
+        "nome": "tests",
+        "icon_url": null,
+        "banner_url": null
+    },
+    "roles": [
+        {
+            "id": 1427460351816892418,
+            "name": "@everyone",
+            "color": 0,
+            "position": 0
+        },
+        {
+            "id": 1464665563564474542,
+            "name": "Suporte",
+            "color": 1579289,
+            "position": 1
+        },
+        {
+            "id": 1464665562155061431,
+            "name": "Membros",
+            "color": 2829099,
+            "position": 2
+        },
+        {
+            "id": 1464665564604797013,
+            "name": "Moderator",
+            "color": 15105570,
+            "position": 3
+        },
+        {
+            "id": 1464665460371882055,
+            "name": "ZynxUser",
+            "color": 9145227,
+            "position": 3
+        },
+        {
+            "id": 1464665559185494078,
+            "name": "Loritta",
+            "color": 0,
+            "position": 4
+        },
+        {
+            "id": 1464665566689104036,
+            "name": "Executive",
+            "color": 1803,
+            "position": 5
+        },
+        {
+            "id": 1464665483000152246,
+            "name": "/Founder",
+            "color": 0,
+            "position": 6
+        },
+        {
+            "id": 1464665558128529559,
+            "name": "Zenity Pro",
+            "color": 0,
+            "position": 7
+        },
+        {
+            "id": 1464665484208115754,
+            "name": "./op",
+            "color": 0,
+            "position": 8
+        },
+        {
+            "id": 1464665555507220713,
+            "name": "Cargo de Administrador",
+            "color": 10587343,
+            "position": 9
+        },
+        {
+            "id": 1464665553712189501,
+            "name": "Cargo de Suporte",
+            "color": 9420684,
+            "position": 10
+        },
+        {
+            "id": 1464665552479060011,
+            "name": "Cargo de Cliente",
+            "color": 10587343,
+            "position": 11
+        },
+        {
+            "id": 1464665551010795743,
+            "name": "Cargo de Verificado",
+            "color": 9420684,
+            "position": 12
+        },
+        {
+            "id": 1464665549907693578,
+            "name": "Cargo Auto Role",
+            "color": 13135498,
+            "position": 13
+        },
+        {
+            "id": 1464665548729352192,
+            "name": "ZynxManager",
+            "color": 0,
+            "position": 14
+        },
+        {
+            "id": 1464665546976002327,
+            "name": "ZynxUser",
+            "color": 9145227,
+            "position": 15
+        },
+        {
+            "id": 1464467207919767689,
+            "name": "maneger test",
+            "color": 0,
+            "position": 16
+        },
+        {
+            "id": 1464665560821272830,
+            "name": "Verificado",
+            "color": 7975834,
+            "position": 17
+        },
+        {
+            "id": 1464665463920267376,
+            "name": "Cargo Auto Role",
+            "color": 13135498,
+            "position": 18
+        },
+        {
+            "id": 1464094491911917645,
+            "name": "Steam",
+            "color": 0,
+            "position": 19
+        },
+        {
+            "id": 1461828440230723598,
+            "name": "stema test",
+            "color": 0,
+            "position": 20
+        },
+        {
+            "id": 1459395385188548712,
+            "name": "zenSallers",
+            "color": 0,
+            "position": 21
+        },
+        {
+            "id": 1454964249410670644,
+            "name": "Giggle",
+            "color": 0,
+            "position": 22
+        },
+        {
+            "id": 1451788743110295583,
+            "name": "ztools",
+            "color": 0,
+            "position": 23
+        },
+        {
+            "id": 1464479174323605555,
+            "name": "tests2.3",
+            "color": 0,
+            "position": 24
+        }
+    ],
+    "categories": [
+        {
+            "id": 1464665565061841012,
+            "name": "Area admin",
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665618354536591,
+            "name": "Area admin",
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665566961733891,
+            "name": "Inicio",
+            "position": 1,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665621081096378,
+            "name": "Inicio",
+            "position": 1,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665567788142705,
+            "name": "Planos",
+            "position": 2,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665624226697228,
+            "name": "Planos",
+            "position": 2,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665570463977656,
+            "name": "Ticket",
+            "position": 3,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665628341174433,
+            "name": "Ticket",
+            "position": 3,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665571839705242,
+            "name": "Gestão",
+            "position": 4,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665630920671346,
+            "name": "Gestão",
+            "position": 4,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665574176063498,
+            "name": "Logs Manager",
+            "position": 5,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665633344983330,
+            "name": "Logs Manager",
+            "position": 5,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665575258063000,
+            "name": "Logs",
+            "position": 6,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665635597320335,
+            "name": "Logs",
+            "position": 6,
+            "overwrites": {}
+        }
+    ],
+    "channels": [
+        {
+            "id": 1464665691389956186,
+            "name": "txt-ticket",
+            "type": "text",
+            "category_id": 1464665618354536591,
+            "position": 3,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665577024131298,
+            "name": "logs-de-tickets",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 29,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665701926047757,
+            "name": "logs-de-anti-falso",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 31,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665599601934605,
+            "name": "moderator-only",
+            "type": "text",
+            "category_id": null,
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665588453474346,
+            "name": "logs-de-permissoes-removidas",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 44,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665670162579600,
+            "name": "logs-de-transferencia-de-dono",
+            "type": "text",
+            "category_id": 1464665633344983330,
+            "position": 49,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665711875067958,
+            "name": "logs-verify",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 46,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665721555386480,
+            "name": "logs-de-cargos-adicionados",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 35,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665641662283971,
+            "name": "logs-de-renovacao",
+            "type": "text",
+            "category_id": 1464665633344983330,
+            "position": 48,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665674872787297,
+            "name": "dvidas-henriquevzx7",
+            "type": "text",
+            "category_id": 1464665628341174433,
+            "position": 15,
+            "overwrites": {
+                "733495836771745933": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1464665613015449673,
+            "name": "chat-admin",
+            "type": "text",
+            "category_id": 1464665565061841012,
+            "position": 2,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665617305960612,
+            "name": "logs-de-anti-falso",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 31,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665732372758762,
+            "name": "aviso-admin",
+            "type": "text",
+            "category_id": 1464665618354536591,
+            "position": 1,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665705315172462,
+            "name": "📜・regras",
+            "type": "text",
+            "category_id": 1464665621081096378,
+            "position": 5,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665662629871729,
+            "name": "logs-de-expulsoes",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 33,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665727318626550,
+            "name": "bug-hunter-_kenshiz",
+            "type": "text",
+            "category_id": 1464665628341174433,
+            "position": 14,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665584099659856,
+            "name": "logs-de-entradas",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 23,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665653351813244,
+            "name": "logs-de-pedidos",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 27,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665679658750055,
+            "name": "moderator-only",
+            "type": "text",
+            "category_id": null,
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665713116709099,
+            "name": "feedback",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 28,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665689972539505,
+            "name": "💬・chat-geral",
+            "type": "text",
+            "category_id": 1464665630920671346,
+            "position": 17,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665681201987734,
+            "name": "logs-de-castigos",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 34,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665723401142301,
+            "name": "boas-vindas",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 21,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665682519134218,
+            "name": "🔒・autenticação",
+            "type": "text",
+            "category_id": 1464665621081096378,
+            "position": 8,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665678442270974,
+            "name": "🤖・talk-to-an-ai",
+            "type": "text",
+            "category_id": 1464665571839705242,
+            "position": 20,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665606698832129,
+            "name": "💬・chat-geral",
+            "type": "text",
+            "category_id": 1464665571839705242,
+            "position": 17,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665644258558076,
+            "name": "logs-de-cargos-removidos",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 36,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665666358612143,
+            "name": "💡・sugestões",
+            "type": "text",
+            "category_id": 1464665630920671346,
+            "position": 19,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665671282462857,
+            "name": "logs-de-mensagens",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 25,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665710205735125,
+            "name": "logs-de-trafego-em-call",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 26,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665595126481050,
+            "name": "💎・planos",
+            "type": "text",
+            "category_id": 1464665567788142705,
+            "position": 9,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665692618883113,
+            "name": "logs-de-canais-excluidos",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 41,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665601313083607,
+            "name": "🔒・autenticação",
+            "type": "text",
+            "category_id": 1464665566961733891,
+            "position": 8,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665646720614566,
+            "name": "evento-de-compras",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 45,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665719814750299,
+            "name": "app-exp",
+            "type": "text",
+            "category_id": 1464665633344983330,
+            "position": 50,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665669017538612,
+            "name": "aviso-admin",
+            "type": "text",
+            "category_id": 1464665565061841012,
+            "position": 1,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665685710999623,
+            "name": "logs-de-saidas",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 24,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665619587924041,
+            "name": "logs-de-permissoes-adicionadas",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 43,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665683907444829,
+            "name": "logs-de-cargos-criados",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 37,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665605574758614,
+            "name": "logs-de-banimentos",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 32,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665648247607601,
+            "name": "logs-de-cargos-adicionados",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 35,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665656736878643,
+            "name": "bug-hunter-_kenshiz",
+            "type": "text",
+            "category_id": 1464665570463977656,
+            "position": 14,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665585286905889,
+            "name": "bug-hunter-diretrizesdochat",
+            "type": "text",
+            "category_id": 1464665570463977656,
+            "position": 13,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665686986195189,
+            "name": "🎁・giveaway",
+            "type": "text",
+            "category_id": 1464665566961733891,
+            "position": 7,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665614990966915,
+            "name": "📸・midias",
+            "type": "text",
+            "category_id": 1464665571839705242,
+            "position": 18,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665693931704551,
+            "name": "logs-de-comandos",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 30,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665688621846724,
+            "name": "logs-de-banimentos",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 32,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665590932181065,
+            "name": "💡・sugestões",
+            "type": "text",
+            "category_id": 1464665571839705242,
+            "position": 19,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665611358572577,
+            "name": "logs-de-comandos",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 30,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665673891315956,
+            "name": "⭐・avaliação",
+            "type": "text",
+            "category_id": 1464665567788142705,
+            "position": 10,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665699338424432,
+            "name": "📸・midias",
+            "type": "text",
+            "category_id": 1464665630920671346,
+            "position": 18,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665645559058502,
+            "name": "app-exp",
+            "type": "text",
+            "category_id": 1464665574176063498,
+            "position": 50,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665578470903905,
+            "name": "logs-de-renovacao",
+            "type": "text",
+            "category_id": 1464665574176063498,
+            "position": 48,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665650843619481,
+            "name": "boas-vindas",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 21,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665726169252092,
+            "name": "logs-de-pedidos",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 27,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665729457590415,
+            "name": "logs-de-vendas",
+            "type": "text",
+            "category_id": 1464665633344983330,
+            "position": 47,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665703637323856,
+            "name": "logs-de-permissoes-adicionadas",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 43,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665659727155260,
+            "name": "logs-de-vendas",
+            "type": "text",
+            "category_id": 1464665574176063498,
+            "position": 47,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665664764641291,
+            "name": "logs-de-cargos-editados",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 39,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665717390577779,
+            "name": "📰・changelog",
+            "type": "text",
+            "category_id": 1464665621081096378,
+            "position": 6,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665733685580011,
+            "name": "logs-de-mensagens",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 25,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665652173213787,
+            "name": "bug-hunter-diretrizesdochat",
+            "type": "text",
+            "category_id": 1464665628341174433,
+            "position": 13,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665672637485269,
+            "name": "💎・planos",
+            "type": "text",
+            "category_id": 1464665624226697228,
+            "position": 9,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665629243085050,
+            "name": "logs-de-trafego-em-call",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 26,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665596401815797,
+            "name": "dvidas-henriquevzx7",
+            "type": "text",
+            "category_id": 1464665570463977656,
+            "position": 15,
+            "overwrites": {
+                "733495836771745933": {
+                    "allow": 3072,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "id": 1464665603397783746,
+            "name": "logs-de-saidas",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 24,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665587006574604,
+            "name": "📩・abrir-ticket",
+            "type": "text",
+            "category_id": 1464665570463977656,
+            "position": 12,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665582648430745,
+            "name": "evento-de-compras",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 45,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665610016391189,
+            "name": "logs-de-canais-excluidos",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 41,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665626105614648,
+            "name": "bug-hunter-izume12837",
+            "type": "text",
+            "category_id": 1464665570463977656,
+            "position": 16,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665696330973214,
+            "name": "chat-admin",
+            "type": "text",
+            "category_id": 1464665618354536591,
+            "position": 2,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665654719283286,
+            "name": "📩・abrir-ticket",
+            "type": "text",
+            "category_id": 1464665628341174433,
+            "position": 12,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665731055616086,
+            "name": "logs-de-cargos-editados",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 39,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665608238137397,
+            "name": "txt-ticket",
+            "type": "text",
+            "category_id": 1464665565061841012,
+            "position": 3,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665700714156083,
+            "name": "logs-de-canais-editados",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 42,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665622398111787,
+            "name": "📜・regras",
+            "type": "text",
+            "category_id": 1464665566961733891,
+            "position": 5,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665634326712352,
+            "name": "feedback",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 28,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665637333762179,
+            "name": "logs-do-sistema",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 22,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665589888061521,
+            "name": "logs-de-expulsoes",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 33,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665580769513574,
+            "name": "logs-de-cargos-removidos",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 36,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665649619140709,
+            "name": "logs-de-entradas",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 23,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665592773611611,
+            "name": "logs-de-transferencia-de-dono",
+            "type": "text",
+            "category_id": 1464665574176063498,
+            "position": 49,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665709098303734,
+            "name": "bug-hunter-izume12837",
+            "type": "text",
+            "category_id": 1464665628341174433,
+            "position": 16,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665714718670991,
+            "name": "logs-do-sistema",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 22,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665638961156178,
+            "name": "logs-de-tickets",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 29,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665658313801801,
+            "name": "logs-de-permissoes-removidas",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 44,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665716052725760,
+            "name": "logs-de-cargos-excluidos",
+            "type": "text",
+            "category_id": 1464665635597320335,
+            "position": 38,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665676978454732,
+            "name": "logs-de-canais-criados",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 40,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665632137019526,
+            "name": "logs-verify",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 46,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665640253264084,
+            "name": "logs-de-cargos-excluidos",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 38,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665616144273572,
+            "name": "logs-de-canais-editados",
+            "type": "text",
+            "category_id": 1464665575258063000,
+            "position": 42,
+            "overwrites": {}
+        },
+        {
+            "id": 1464665642824372346,
+            "name": "📰・changelog",
+            "type": "text",
+            "category_id": 1464665566961733891,
+            "position": 6,
+            "overwrites": {}
+        }
+    ],
+    "members": [
+        {
+            "id": 1448864631362687037,
+            "roles": [
+                1464479174323605555
+            ]
+        },
+        {
+            "id": 733495836771745933,
+            "roles": [
+                1464665562155061431,
+                1464665560821272830
+            ]
+        },
+        {
+            "id": 1034774026926702593,
+            "roles": [
+                1464665562155061431,
+                1464665551010795743,
+                1464665560821272830
+            ]
+        },
+        {
+            "id": 1070445096086016000,
+            "roles": [
+                1454964249410670644
+            ]
+        },
+        {
+            "id": 1448382254739882055,
+            "roles": [
+                1464467207919767689
+            ]
+        },
+        {
+            "id": 1451787023437402132,
+            "roles": [
+                1451788743110295583
+            ]
+        },
+        {
+            "id": 1458131139146416370,
+            "roles": [
+                1464094491911917645
+            ]
+        },
+        {
+            "id": 1459388926442606663,
+            "roles": [
+                1459395385188548712
+            ]
+        },
+        {
+            "id": 1461827877627629620,
+            "roles": [
+                1461828440230723598
+            ]
+        }
+    ],
+    "emojis": [
+        {
+            "id": 1464665688172925069,
+            "name": "zynx",
+            "animated": false,
+            "file": "emojis/96df213b906ef506db01c22beeb3e9c84aa138246ceea8390c529cc394001168.png"
+        }
+    ],
+    "stickers": [
+        {
+            "id": 1464665696867713219,
+            "name": "no autorizo",
+            "format": "StickerFormatType.png",
+            "file": "stickers/87b844cebedbaa55412bb781f7e855f95bcc928795f56daecf29660bf5cc6386.png"
+        },
+        {
+            "id": 1464665700760027189,
+            "name": "autorizo",
+            "format": "StickerFormatType.png",
+            "file": "stickers/53ce24cf40bbaf35b3370d00f6559a05214d74ad6b9a63b1e15cd98e64144e46.png"
+        }
+    ],
+    "messages": {}
+}

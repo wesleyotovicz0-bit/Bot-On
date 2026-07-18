@@ -1,0 +1,31 @@
+{
+    "mercado_pago": {
+        "enabled": false,
+        "access_token": null
+    },
+    "efibank": {
+        "enabled": false,
+        "client_id": null,
+        "client_secret": null,
+        "pix_key": null,
+        "cert_file": null
+    },
+    "pushinpay": {
+        "enabled": false,
+        "token_pushinpay": null
+    },
+    "misticpay": {
+        "enabled": false,
+        "client_id": null,
+        "client_secret": null
+    },
+    "pix_manual": {
+        "enabled": false,
+        "pix_key": null,
+        "pix_key_type": null
+    },
+    "sync_wallet": {
+        "enabled": false,
+        "api_key": null
+    }
+}

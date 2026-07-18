@@ -1,0 +1,1978 @@
+{
+    "guild": {
+        "id": 1457732163016458293,
+        "nome": "Zynx Applications",
+        "icon_url": "https://cdn.discordapp.com/icons/1457732163016458293/3f7215b7bdc808c5b9bc1df2689e83c6.png?size=1024",
+        "banner_url": null
+    },
+    "roles": [
+        {
+            "id": 1457732163016458293,
+            "name": "@everyone",
+            "color": 0,
+            "position": 0
+        },
+        {
+            "id": 1458619472989523980,
+            "name": "Membros",
+            "color": 16747520,
+            "position": 1
+        },
+        {
+            "id": 1458609867039440917,
+            "name": "./op",
+            "color": 0,
+            "position": 1
+        },
+        {
+            "id": 1458080500080967825,
+            "name": "Cargo de Verificado",
+            "color": 7975834,
+            "position": 1
+        },
+        {
+            "id": 1457778953455403265,
+            "name": "VisionBot",
+            "color": 0,
+            "position": 1
+        }
+    ],
+    "categories": [
+        {
+            "id": 1457732164392325141,
+            "name": "Canais de Texto",
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1457732164392325142,
+            "name": "Canais de Voz",
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1458836060254769246,
+            "name": "Logs",
+            "position": 1,
+            "overwrites": {}
+        }
+    ],
+    "channels": [
+        {
+            "id": 1457732164392325144,
+            "name": "Geral",
+            "type": "voice",
+            "category_id": 1457732164392325142,
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1457798333190897706,
+            "name": "evento-de-compras",
+            "type": "text",
+            "category_id": null,
+            "position": 1,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1457858380151525429,
+            "name": "geral",
+            "type": "text",
+            "category_id": 1457732164392325141,
+            "position": 0,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458546050007830721,
+            "name": "Total de membros: 1",
+            "type": "voice",
+            "category_id": null,
+            "position": 1,
+            "overwrites": {}
+        },
+        {
+            "id": 1458609770616328207,
+            "name": "teste-1",
+            "type": "text",
+            "category_id": null,
+            "position": 4,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458613130274799890,
+            "name": "t",
+            "type": "text",
+            "category_id": 1457732164392325141,
+            "position": 2,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836060984578196,
+            "name": "boas-vindas",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 5,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836063081468096,
+            "name": "logs-do-sistema",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 6,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836065602502912,
+            "name": "logs-de-entradas",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 7,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836066806272145,
+            "name": "logs-de-saidas",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 8,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836068286857290,
+            "name": "logs-de-mensagens",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 9,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836070731878556,
+            "name": "logs-de-trafego-em-call",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 10,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836072430567496,
+            "name": "logs-de-pedidos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 11,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836074305425539,
+            "name": "feedback",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 12,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836076042125527,
+            "name": "logs-de-tickets",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 13,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836078009258047,
+            "name": "logs-de-comandos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 14,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836079921725576,
+            "name": "logs-de-anti-falso",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 15,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836081536405709,
+            "name": "logs-de-banimentos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 16,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836083033903106,
+            "name": "logs-de-expulsoes",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 17,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836085021999167,
+            "name": "logs-de-castigos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 18,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836087093989406,
+            "name": "logs-de-cargos-adicionados",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 19,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836088595419186,
+            "name": "logs-de-cargos-removidos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 20,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836090202099907,
+            "name": "logs-de-cargos-criados",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 21,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836092106047519,
+            "name": "logs-de-cargos-excluidos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 22,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836094077632576,
+            "name": "logs-de-cargos-editados",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 23,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836095658758269,
+            "name": "logs-de-canais-criados",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 24,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836096719912972,
+            "name": "logs-de-canais-excluidos",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 25,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836099425112074,
+            "name": "logs-de-canais-editados",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 26,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836100813422715,
+            "name": "logs-de-permissoes-adicionadas",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 27,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458836102164119562,
+            "name": "logs-de-permissoes-removidas",
+            "type": "text",
+            "category_id": 1458836060254769246,
+            "position": 28,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        }
+    ],
+    "members": [
+        {
+            "id": 1449772867247018025,
+            "roles": [
+                1457778953455403265
+            ]
+        },
+        {
+            "id": 1379544267516678306,
+            "roles": [
+                1458609867039440917
+            ]
+        },
+        {
+            "id": 1380925608350978150,
+            "roles": [
+                1458619472989523980,
+                1458080500080967825
+            ]
+        },
+        {
+            "id": 1432011598209351822,
+            "roles": [
+                1458619472989523980,
+                1458609867039440917
+            ]
+        }
+    ],
+    "emojis": [
+        {
+            "id": 1457770390779728064,
+            "name": "zynx",
+            "animated": false,
+            "file": "emojis/96df213b906ef506db01c22beeb3e9c84aa138246ceea8390c529cc394001168.png"
+        }
+    ],
+    "stickers": [],
+    "messages": {
+        "1457858380151525429": [
+            {
+                "content": "ola",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:11:50.908000+00:00",
+                "reference": "1458629012086718531",
+                "embeds": []
+            },
+            {
+                "content": "ola",
+                "author": {
+                    "id": "1379544267516678306",
+                    "name": "Bit Xano",
+                    "avatar": "https://cdn.discordapp.com/avatars/1379544267516678306/4eacbefeeedb1fdaa735bfdbe963241e.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:10:56.498000+00:00",
+                "reference": "1458603676514914539",
+                "embeds": []
+            },
+            {
+                "content": "Olá bixanu",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-07T23:30:16.027000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-07T23:25:19.359000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1457798333190897706": [
+            {
+                "content": "Terminei o Bot inteiro",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T14:40:21.889000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Falta só a API de Payments",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T14:40:18.023000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "<@1432011598209351822> tá pronto",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T14:40:14.455000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "<@1449772867247018025>",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T14:39:44.738000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "<@1449772867247018025>",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T14:32:10.998000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "<@1449772867247018025>",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T14:31:01.071000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Vou fazer umas alterações",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T14:16:19.791000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Vou dar commit agora pra versão 0.0.1",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T14:16:16.554000+00:00",
+                "reference": "1458825887741902962",
+                "embeds": []
+            },
+            {
+                "content": "quase la, terminado o sorteio dele",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T14:13:15.312000+00:00",
+                "reference": "1458823829362184356",
+                "embeds": []
+            },
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:06:59.692000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Terminou?",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T14:05:04.556000+00:00",
+                "reference": "1458815940723609683",
+                "embeds": []
+            },
+            {
+                "content": "e ja comeco",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T13:33:43.758000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "vou terminar meu buti aq",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T13:33:37.897000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Faz aí, tô quase terminando a versão 0.0.1",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T13:27:55.346000+00:00",
+                "reference": "1458813419598778428",
+                "embeds": []
+            },
+            {
+                "content": "faço",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T13:23:42.675000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Sei configurar naum",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T13:19:04.129000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Poderia fazer o server Man?",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T13:19:00.966000+00:00",
+                "reference": "1458812206228570289",
+                "embeds": []
+            },
+            {
+                "content": "?",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T13:18:53.385000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Tá aí?",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T13:18:52.583000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "<@1432011598209351822>",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T13:18:42.822000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Já dá pra colocar a venda",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T02:35:26.348000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Já tô quase arrumando a cloud aqui pow, só falta a API de pagamentos",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T02:35:17.416000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Tu tentou pedir pro jt?",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T02:35:00.239000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Tenta pedir a API pra ele man",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T02:34:02.888000+00:00",
+                "reference": "1458649889746583613",
+                "embeds": []
+            },
+            {
+                "content": "aham",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T02:33:54.120000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Tu tem a amizade do Mendes??",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T02:33:43.162000+00:00",
+                "reference": "1458649396198768762",
+                "embeds": []
+            },
+            {
+                "content": "diga",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T02:31:56.449000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Ou",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T02:31:26.417000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "<@1432011598209351822>",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T02:31:24.809000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "que",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:56:54.538000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "ai",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:56:46.434000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "deixa",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:56:42.961000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "pqp",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:56:41.548000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "entendi",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:56:40.738000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "nao",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:56:38.099000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "cara",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:56:36.929000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "o",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:56:36.020000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "O meu também",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:56:20.131000+00:00",
+                "reference": "1458640401056534742",
+                "embeds": []
+            },
+            {
+                "content": "que não funcionar",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:56:20.119000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "e tem uns bagulho",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:56:16.585000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "aquele bot tá incompleto",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:56:11.840000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "pare de ser burro e entendi",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:55:29.523000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "E só hospedar",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:54:33.232000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Oc já tem u buti",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:54:30.921000+00:00",
+                "reference": "1458639935652233298",
+                "embeds": []
+            },
+            {
+                "content": "preciso entra no arquivo do bot pra ver as estruturas das apis",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:54:20.879000+00:00",
+                "reference": "1458639081465581619",
+                "embeds": []
+            },
+            {
+                "content": "pq oc nn tenta reconstruir ela?",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:50:57.225000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "<@1432011598209351822>",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:50:50.156000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Vai ser impossível de conseguir essa porra de api",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:49:31.770000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Fd",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:48:58.727000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "mandou e apagou",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:48:23.918000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "sabe la",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:48:19.861000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Que imagem",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:47:57.941000+00:00",
+                "reference": "1458638224451703037",
+                "embeds": []
+            },
+            {
+                "content": "e não respondeu mas",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:47:37.449000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "mandou uma imagem",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:47:32.897000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "ele me respondeu",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:47:29.085000+00:00",
+                "reference": "1458634754051145965",
+                "embeds": []
+            },
+            {
+                "content": "eae?",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:33:45.489000+00:00",
+                "reference": "1458631088846147872",
+                "embeds": []
+            },
+            {
+                "content": "eu vou falar com ele aq",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:19:11.636000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Eu já mandei umas 500 mensagem pra ele",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:18:44.782000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:18:34.226000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "O aham deve ter viado, só que ele fica me ignorando man",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:18:31.060000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "<@1432011598209351822>",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:18:22.405000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "entendi",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:13:11.113000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "nao",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:13:08.856000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "assim",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:13:07.593000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "como",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:13:06.236000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "comigo",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:12:37.317000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "escaço",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:12:34.869000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "e",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:12:26.018000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "nao",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:12:24.356000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "ele",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:12:22.831000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "mn",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:12:21.445000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "uque",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:12:12.567000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "muda",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:12:10.521000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "issu",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:12:09.151000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "e",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:12:06.769000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "tlgd",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:11:47+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "comigo",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:11:39.133000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "boa",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:11:37.440000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "de",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:11:36.265000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "mas",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:11:35.083000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "e",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:11:33.355000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "ele",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:11:32.022000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "vai que ele dê",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:10:49.101000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Tenta a sorti",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:10:45.635000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "logo com ele?",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:10:43.041000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "ixi",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:10:40.383000+00:00",
+                "reference": "1458628733618360509",
+                "embeds": []
+            },
+            {
+                "content": "aq",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:09:51.437000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "preciso ver com o jt",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T01:09:50.106000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "E a api?",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:09:14.329000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "<@1432011598209351822>",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:09:12.531000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Dps eu resolvo",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:08:57.578000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Teve um errinho aqui na cloud",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T01:08:54.892000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "Falta só a API de Payments",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T00:45:43.966000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "boa",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T00:45:34.551000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "olk",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T00:45:33.424000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": ":correct: **Gift deletado com sucesso!**\n\n**ID do Gift:** `da20885147f0`\n\nO gift foi removido permanentemente!",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T00:43:16.384000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "GGGGGGGGG",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T00:43:13.934000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "<@1432011598209351822>",
+                "author": {
+                    "id": "1380925608350978150",
+                    "name": "ム Pedrkx16",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png"
+                },
+                "timestamp": "2026-01-08T00:43:11.373000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "nem vai responder agr",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T00:34:59.249000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "ele tá ocupado fazendo as apis da ethix",
+                "author": {
+                    "id": "1432011598209351822",
+                    "name": "x",
+                    "avatar": "https://cdn.discordapp.com/avatars/1432011598209351822/f1ebd13425c5d7b0e507a511a490aee4.png?size=1024"
+                },
+                "timestamp": "2026-01-08T00:34:54.488000+00:00",
+                "reference": "1458615840726581289",
+                "embeds": []
+            }
+        ],
+        "1458613130274799890": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T00:07:50.676000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458609770616328207": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-07T23:54:29.886000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836060984578196": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:40.967000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836063081468096": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:41.778000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836065602502912": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:42.096000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836066806272145": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:42.428000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836068286857290": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:42.924000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836070731878556": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:43.301000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836072430567496": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:43.678000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836074305425539": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:44.234000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836076042125527": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:44.774000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836078009258047": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:57:24.550000+00:00",
+                "reference": null,
+                "embeds": []
+            },
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:45.091000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836079921725576": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:45.563000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836081536405709": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:45.870000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836083033903106": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:46.322000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836085021999167": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:46.891000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836087093989406": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:47.113000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836088595419186": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:47.536000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836090202099907": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:48.051000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836092106047519": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:48.556000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836094077632576": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:48.896000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836095658758269": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:49.243000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836096719912972": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:49.698000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836099425112074": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:50.153000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836100813422715": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:50.449000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ],
+        "1458836102164119562": [
+            {
+                "content": "",
+                "author": {
+                    "id": "1449772867247018025",
+                    "name": "ZynxApplications",
+                    "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+                },
+                "timestamp": "2026-01-08T14:53:50.825000+00:00",
+                "reference": null,
+                "embeds": []
+            }
+        ]
+    }
+}

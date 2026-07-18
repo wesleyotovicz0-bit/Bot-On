@@ -1,0 +1,30 @@
+{
+    "Maneger Auth": {
+        "id": "Maneger Auth",
+        "titulo": "Maneger Auth",
+        "desc": "・Melhor Maneger auth\n・Pega discloud e squarecloud\n・O bot pega 100% squarecloud\n・Com o discloud tem erro no /infoauth\n(não serve para NADA esse comando).",
+        "produtos": [
+            {
+                "nome": "v1",
+                "emoji": "🤖",
+                "preco": "7.50",
+                "estoque": [
+                    "Abre Ticket",
+                    "Abre Ticket",
+                    "Abre Ticket",
+                    "Abre Ticket"
+                ],
+                "condições": {},
+                "notificados": []
+            }
+        ],
+        "button": {
+            "style": 2,
+            "text": "Adquirir",
+            "emoji": "<:sacola:1314603623732350986>",
+            "color": "#2a2d31"
+        },
+        "idmsg": "1359635488725536968",
+        "idchannel": "1359635391535255704"
+    }
+}

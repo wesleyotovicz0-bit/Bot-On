@@ -1,0 +1,161 @@
+{
+    "guild": {
+        "id": 1457732163016458293,
+        "nome": "Zynx Applications",
+        "icon_url": "https://cdn.discordapp.com/icons/1457732163016458293/3f7215b7bdc808c5b9bc1df2689e83c6.png?size=1024",
+        "banner_url": null
+    },
+    "roles": [
+        {
+            "id": 1457732163016458293,
+            "name": "@everyone",
+            "color": 0,
+            "position": 0
+        },
+        {
+            "id": 1458619472989523980,
+            "name": "Membros",
+            "color": 16747520,
+            "position": 1
+        },
+        {
+            "id": 1458609867039440917,
+            "name": "./op",
+            "color": 0,
+            "position": 1
+        },
+        {
+            "id": 1458080500080967825,
+            "name": "Cargo de Verificado",
+            "color": 7975834,
+            "position": 1
+        },
+        {
+            "id": 1457778953455403265,
+            "name": "VisionBot",
+            "color": 0,
+            "position": 1
+        }
+    ],
+    "categories": [
+        {
+            "id": 1457732164392325141,
+            "name": "Canais de Texto",
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1457732164392325142,
+            "name": "Canais de Voz",
+            "position": 0,
+            "overwrites": {}
+        }
+    ],
+    "channels": [
+        {
+            "id": 1457732164392325144,
+            "name": "Geral",
+            "type": "voice",
+            "category_id": 1457732164392325142,
+            "position": 0,
+            "overwrites": {}
+        },
+        {
+            "id": 1457798333190897706,
+            "name": "evento-de-compras",
+            "type": "text",
+            "category_id": null,
+            "position": 1,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1457858380151525429,
+            "name": "geral",
+            "type": "text",
+            "category_id": 1457732164392325141,
+            "position": 0,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458546050007830721,
+            "name": "Total de membros: 1",
+            "type": "voice",
+            "category_id": null,
+            "position": 1,
+            "overwrites": {}
+        },
+        {
+            "id": 1458609770616328207,
+            "name": "teste-1",
+            "type": "text",
+            "category_id": null,
+            "position": 4,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        },
+        {
+            "id": 1458613130274799890,
+            "name": "t",
+            "type": "text",
+            "category_id": 1457732164392325141,
+            "position": 2,
+            "overwrites": {
+                "1457732163016458293": {
+                    "allow": 0,
+                    "deny": 1024
+                }
+            }
+        }
+    ],
+    "members": [
+        {
+            "id": 1449772867247018025,
+            "roles": [
+                1457778953455403265
+            ]
+        },
+        {
+            "id": 1379544267516678306,
+            "roles": [
+                1458609867039440917
+            ]
+        },
+        {
+            "id": 1380925608350978150,
+            "roles": [
+                1458080500080967825
+            ]
+        },
+        {
+            "id": 1432011598209351822,
+            "roles": [
+                1458619472989523980,
+                1458609867039440917
+            ]
+        }
+    ],
+    "emojis": [
+        {
+            "id": 1457770390779728064,
+            "name": "zynx",
+            "animated": false,
+            "file": "emojis/96df213b906ef506db01c22beeb3e9c84aa138246ceea8390c529cc394001168.png"
+        }
+    ],
+    "stickers": [],
+    "messages": {}
+}
