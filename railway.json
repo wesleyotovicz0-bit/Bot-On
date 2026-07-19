@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "nixpacks",
+    "buildCommand": "pnpm install && pnpm --filter @workspace/api-server build"
+  }
+}
